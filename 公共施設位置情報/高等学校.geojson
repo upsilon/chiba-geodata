@@ -1,0 +1,191 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099282,
+                    35.644827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台9丁目46−1",
+                "category": "高等学校",
+                "name": "市立 千葉高等学校",
+                "name_kana": "イチリツチバコウトウガッコウ",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068525,
+                    35.620401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜3丁目1−1",
+                "category": "高等学校",
+                "name": "市立 稲毛高等学校",
+                "name_kana": "イチリツイナゲコウトウガッコウ",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.110703,
+                    35.628838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区轟町4丁目3−30",
+                "category": "高等学校",
+                "name": "千葉経済大学附属高等学校",
+                "name_kana": "チバケイザイダイガクフゾクコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.154541,
+                    35.560998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区南生実町1412",
+                "category": "高等学校",
+                "name": "千葉明徳高等学校",
+                "name_kana": "チバメイトクコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.104008,
+                    35.635186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区穴川1丁目5−21",
+                "category": "高等学校",
+                "name": "敬愛学園高等学校",
+                "name_kana": "ケイアイガクエンコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.115316,
+                    35.616471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区弁天2丁目8−9",
+                "category": "高等学校",
+                "name": "植草学園大学附属高等学校",
+                "name_kana": "ウエクサガクエンダイガクフゾクコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12965,
+                    35.614744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区道場北1丁目17−6",
+                "category": "高等学校",
+                "name": "千葉聖心高等学校",
+                "name_kana": "チバセイシンコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047359,
+                    35.657994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区若葉1丁目2",
+                "category": "高等学校",
+                "name": "昭和学院秀英高等学校",
+                "name_kana": "ショウワガクインシュウエイコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.046673,
+                    35.658273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区若葉1丁目3",
+                "category": "高等学校",
+                "name": "渋谷教育学園幕張高等学校",
+                "name_kana": "シブヤキョウイクガクエンマクハリコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.164948,
+                    35.635535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "桜木北1丁目17-32",
+                "category": "高等学校",
+                "name": "桜林高等学校",
+                "name_kana": "オウリンコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.119972,
+                    35.60986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区本千葉町10",
+                "category": "高等学校",
+                "name": "明聖高等学校",
+                "name_kana": "メイセイコウトウガッコウ"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

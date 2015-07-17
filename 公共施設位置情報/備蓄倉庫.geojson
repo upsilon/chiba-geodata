@@ -1,0 +1,1261 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114303,
+                    35.607909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区新宿2−15−1",
+                "category": "備蓄倉庫",
+                "name": "新宿小学校",
+                "name_kana": "シンジュクショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.128119,
+                    35.60932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区本町2−6−23",
+                "category": "備蓄倉庫",
+                "name": "本町小学校",
+                "name_kana": "ホンチョウショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121804,
+                    35.597317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区寒川町1−205",
+                "category": "備蓄倉庫",
+                "name": "寒川小学校",
+                "name_kana": "サムガワショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125796,
+                    35.615512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区祐光1−25−3",
+                "category": "備蓄倉庫",
+                "name": "院内小学校",
+                "name_kana": "インナイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131263,
+                    35.578211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区今井3−15−32",
+                "category": "備蓄倉庫",
+                "name": "蘇我小学校",
+                "name_kana": "ソガショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144835,
+                    35.612507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区都町1129",
+                "category": "備蓄倉庫",
+                "name": "都小学校",
+                "name_kana": "ミヤコショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.155405,
+                    35.586438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区松ヶ丘町580",
+                "category": "備蓄倉庫",
+                "name": "松ヶ丘小学校",
+                "name_kana": "マツガオカショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167967,
+                    35.584782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川戸町450",
+                "category": "備蓄倉庫",
+                "name": "川戸小学校",
+                "name_kana": "カワドショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146688,
+                    35.596806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区星久喜町1060",
+                "category": "備蓄倉庫",
+                "name": "星久喜小学校",
+                "name_kana": "ホシクキショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131289,
+                    35.558963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区塩田町316−1",
+                "category": "備蓄倉庫",
+                "name": "生浜西小学校",
+                "name_kana": "オイハマニシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144497,
+                    35.595366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区青葉町654",
+                "category": "備蓄倉庫",
+                "name": "青葉の森公園",
+                "name_kana": "アオバノモリコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12947,
+                    35.582837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区今井1−14−35",
+                "category": "備蓄倉庫",
+                "name": "蘇我コミュニティセンター",
+                "name_kana": "ソガコミュニティセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.117007,
+                    35.620106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区弁天4−1",
+                "category": "備蓄倉庫",
+                "name": "千葉公園",
+                "name_kana": "チバコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120796,
+                    35.603721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区長洲1−2−1",
+                "category": "備蓄倉庫",
+                "name": "消防合同庁舎",
+                "name_kana": "ショウボウゴウドウチョウシャ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106424,
+                    35.607361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区千葉港1−1",
+                "category": "備蓄倉庫",
+                "name": "千葉市役所",
+                "name_kana": "チバシヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.111325,
+                    35.669877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区犢橋町107−2",
+                "category": "備蓄倉庫",
+                "name": "花見川消防署",
+                "name_kana": "ハナミガワショウボウショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068624,
+                    35.663319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区瑞穂1−1",
+                "category": "備蓄倉庫",
+                "name": "花見川区役所",
+                "name_kana": "ハナミガワクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097138,
+                    35.681656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花島町308",
+                "category": "備蓄倉庫",
+                "name": "花島公園センター",
+                "name_kana": "ハナシマコウエンセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.085505,
+                    35.659229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区朝日ヶ丘2−6−1",
+                "category": "備蓄倉庫",
+                "name": "朝日ヶ丘小学校",
+                "name_kana": "アサヒガオカショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.050455,
+                    35.668121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張本郷4−8−1",
+                "category": "備蓄倉庫",
+                "name": "上の台小学校",
+                "name_kana": "ウエノダイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099185,
+                    35.663923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区さつきが丘1−7",
+                "category": "備蓄倉庫",
+                "name": "さつきが丘東小学校",
+                "name_kana": "サツキガオカヒガシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.088844,
+                    35.685277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川1−1",
+                "category": "備蓄倉庫",
+                "name": "花見川第三小学校",
+                "name_kana": "ハナミガワダイサンショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101329,
+                    35.688791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川6−1",
+                "category": "備蓄倉庫",
+                "name": "花見川第二小学校",
+                "name_kana": "ハナミガワダイニショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073743,
+                    35.684214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区長作町1273",
+                "category": "備蓄倉庫",
+                "name": "長作小学校",
+                "name_kana": "ナガサクショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.053739,
+                    35.661884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張町4−781",
+                "category": "備蓄倉庫",
+                "name": "幕張小学校",
+                "name_kana": "マクハリショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120359,
+                    35.696165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区横戸町1005",
+                "category": "備蓄倉庫",
+                "name": "横戸小学校",
+                "name_kana": "ヨコドショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.108168,
+                    35.67297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区犢橋町774",
+                "category": "備蓄倉庫",
+                "name": "犢橋小学校",
+                "name_kana": "コテハシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068613,
+                    35.648881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区検見川町3−322−23",
+                "category": "備蓄倉庫",
+                "name": "検見川小学校",
+                "name_kana": "ケミガワショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106574,
+                    35.635962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区穴川4−12−2",
+                "category": "備蓄倉庫",
+                "name": "稲毛消防署",
+                "name_kana": "イナゲショウボウショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120068,
+                    35.629152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区作草部町938",
+                "category": "備蓄倉庫",
+                "name": "都賀小学校",
+                "name_kana": "ツガショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097899,
+                    35.647279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区小仲台9−30−1",
+                "category": "備蓄倉庫",
+                "name": "園生小学校",
+                "name_kana": "ソンノウショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.088013,
+                    35.632606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区稲丘町19−30",
+                "category": "備蓄倉庫",
+                "name": "稲丘小学校",
+                "name_kana": "イナオカショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101136,
+                    35.625803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区弥生町3−18",
+                "category": "備蓄倉庫",
+                "name": "弥生小学校",
+                "name_kana": "ヤヨイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097753,
+                    35.623442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区緑町2−13−1",
+                "category": "備蓄倉庫",
+                "name": "緑町小学校",
+                "name_kana": "ミドリマチショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.142685,
+                    35.665341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区山王町121",
+                "category": "備蓄倉庫",
+                "name": "山王小学校",
+                "name_kana": "サンノウショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116007,
+                    35.638225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区天台5−11−1",
+                "category": "備蓄倉庫",
+                "name": "千草台小学校",
+                "name_kana": "チグサダイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109734,
+                    35.658964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区宮野木町2100",
+                "category": "備蓄倉庫",
+                "name": "宮野木小学校",
+                "name_kana": "ミヤノギショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125533,
+                    35.65317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区園生町1385",
+                "category": "備蓄倉庫",
+                "name": "草野小学校",
+                "name_kana": "クサノショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113163,
+                    35.656597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区長沼町255−1",
+                "category": "備蓄倉庫",
+                "name": "長沼町公園",
+                "name_kana": "ナガヌマチョウコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.189326,
+                    35.618273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台南1−19−1",
+                "category": "備蓄倉庫",
+                "name": "千城台南小学校",
+                "name_kana": "チシロダイミナミショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.170582,
+                    35.629289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区小倉台4−7",
+                "category": "備蓄倉庫",
+                "name": "小倉台公園",
+                "name_kana": "オグラダイコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.228021,
+                    35.619293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区更科町2073",
+                "category": "備蓄倉庫",
+                "name": "更科小学校",
+                "name_kana": "サラシナショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.16792,
+                    35.640785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区若松町360−1",
+                "category": "備蓄倉庫",
+                "name": "若松小学校",
+                "name_kana": "ワカマツショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.230974,
+                    35.580907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区野呂町215",
+                "category": "備蓄倉庫",
+                "name": "白井小学校",
+                "name_kana": "シライショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182235,
+                    35.596181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区大宮台7−8−1",
+                "category": "備蓄倉庫",
+                "name": "大宮小学校",
+                "name_kana": "オオミヤショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.159517,
+                    35.621105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区桜木3−26−1",
+                "category": "備蓄倉庫",
+                "name": "桜木小学校",
+                "name_kana": "サクラギショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18372,
+                    35.628698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台北1−4−1",
+                "category": "備蓄倉庫",
+                "name": "千城台北小学校",
+                "name_kana": "チシロダイキタショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.155655,
+                    35.634009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区桜木北2−1−1",
+                "category": "備蓄倉庫",
+                "name": "若葉区役所",
+                "name_kana": "ワカバクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130817,
+                    35.633998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区みつわ台1−17−1",
+                "category": "備蓄倉庫",
+                "name": "みつわ台南小学校",
+                "name_kana": "ミツワダイミナミショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.220615,
+                    35.594083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区高根町963−4",
+                "category": "備蓄倉庫",
+                "name": "泉市民センター",
+                "name_kana": "イズミシミンセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125666,
+                    35.631732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区殿台町436−4",
+                "category": "備蓄倉庫",
+                "name": "若葉消防署殿台出張所",
+                "name_kana": "ワカバショウボウショトノダイシュッチョウジョ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.204475,
+                    35.549554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区誉田町1−27",
+                "category": "備蓄倉庫",
+                "name": "誉田小学校",
+                "name_kana": "ホンダショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.273411,
+                    35.531626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区土気町1634−2",
+                "category": "備蓄倉庫",
+                "name": "土気小学校",
+                "name_kana": "トケショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.237031,
+                    35.532181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区越智町705−359",
+                "category": "備蓄倉庫",
+                "name": "越智小学校",
+                "name_kana": "オチショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.17359,
+                    35.554272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野中央4−3",
+                "category": "備蓄倉庫",
+                "name": "泉谷小学校",
+                "name_kana": "イズミヤショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.265018,
+                    35.523073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区あすみが丘4−16",
+                "category": "備蓄倉庫",
+                "name": "土気南小学校",
+                "name_kana": "トケミナミショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.26234,
+                    35.514374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区あすみが丘6−38",
+                "category": "備蓄倉庫",
+                "name": "大椎小学校",
+                "name_kana": "オオジショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.166093,
+                    35.56129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野1−53",
+                "category": "備蓄倉庫",
+                "name": "有吉小学校",
+                "name_kana": "アリヨシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.27324,
+                    35.530758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区土気町1634",
+                "category": "備蓄倉庫",
+                "name": "土気市民センター",
+                "name_kana": "トケシミンセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.175015,
+                    35.559974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野3−15−1",
+                "category": "備蓄倉庫",
+                "name": "緑消防署",
+                "name_kana": "ミドリショウボウショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.063637,
+                    35.640607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂5−15−6",
+                "category": "備蓄倉庫",
+                "name": "美浜消防署",
+                "name_kana": "ミハマショウボウショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099009,
+                    35.61127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幸町1−10−1",
+                "category": "備蓄倉庫",
+                "name": "幸町第三小学校",
+                "name_kana": "サイワイチョウダイサンショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.090536,
+                    35.621654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幸町2−12−12",
+                "category": "備蓄倉庫",
+                "name": "旧幸町第四小学校（工事中）",
+                "name_kana": "キュウサイワイチョウダイヨンショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074168,
+                    35.626726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲3−3−11",
+                "category": "備蓄倉庫",
+                "name": "高洲第三小学校",
+                "name_kana": "タカスダイサンショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.038036,
+                    35.664865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幕張西2−8−1",
+                "category": "備蓄倉庫",
+                "name": "幕張西小学校",
+                "name_kana": "マクハリニシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069148,
+                    35.632619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂1−12−15",
+                "category": "備蓄倉庫",
+                "name": "真砂第五小学校",
+                "name_kana": "マサゴダイゴショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075894,
+                    35.61987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜1−4−1",
+                "category": "備蓄倉庫",
+                "name": "高浜第一小学校",
+                "name_kana": "タカハマダイイチショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.066996,
+                    35.620969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜3−3−1",
+                "category": "備蓄倉庫",
+                "name": "旧高浜第二小学校（跡施設）",
+                "name_kana": "キュウタカハマダイニショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.084343,
+                    35.629948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区稲毛海岸2−3−2",
+                "category": "備蓄倉庫",
+                "name": "稲浜小学校",
+                "name_kana": "イナハマショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058101,
+                    35.631764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区磯辺4−16−1",
+                "category": "備蓄倉庫",
+                "name": "磯辺小学校",
+                "name_kana": "イソベショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047293,
+                    35.642022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区打瀬1−3−1",
+                "category": "備蓄倉庫",
+                "name": "打瀬小学校",
+                "name_kana": "ウタセショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.066847,
+                    35.637693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂2−13−1",
+                "category": "備蓄倉庫",
+                "name": "真砂東小学校",
+                "name_kana": "マサゴヒガシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.06152,
+                    35.6440161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂5−18−1",
+                "category": "備蓄倉庫",
+                "name": "高等特別支援学校",
+                "name_kana": "コウトウトクベツシエンガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126869,
+                    35.5965243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区末広2−10−1",
+                "category": "備蓄倉庫",
+                "name": "末広中学校",
+                "name_kana": "スエヒロチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.123599,
+                    35.578557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川崎町1−20",
+                "category": "備蓄倉庫",
+                "name": "フクダ電子アリーナ",
+                "name_kana": "フクダデンシアリーナ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.201533,
+                    35.616628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区金親町244−1",
+                "category": "備蓄倉庫",
+                "name": "若葉消防署",
+                "name_kana": "ワカバショウボウショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176127,
+                    35.560894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野3−15−3",
+                "category": "備蓄倉庫",
+                "name": "緑区役所",
+                "name_kana": "ミドリクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1679,
+                    35.5444185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野南4−26",
+                "category": "備蓄倉庫",
+                "name": "おゆみ野南小学校",
+                "name_kana": "オユミノミナミショウガッコウ"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

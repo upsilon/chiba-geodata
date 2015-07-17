@@ -1,0 +1,1594 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068123,
+                    35.624289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜4丁目9-1",
+                "category": "幼稚園",
+                "name": "なかよし幼稚園",
+                "name_kana": "ナカヨシヨウチエン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.100087,
+                    35.689335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川6-18",
+                "category": "幼稚園",
+                "name": "まこと第二幼稚園",
+                "name_kana": "マコトダイニヨウチエン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095612,
+                    35.684888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川8-19",
+                "category": "幼稚園",
+                "name": "第二ちぐさ幼稚園",
+                "name_kana": "ダイニチグサヨウチエン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116678,
+                    35.695623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区こてはし台6丁目21-1",
+                "category": "幼稚園",
+                "name": "まこと第三幼稚園",
+                "name_kana": "マコトダイサンヨウチエン",
+                "postcode": "262-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.038964,
+                    35.663649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幕張西3丁目2-9",
+                "category": "幼稚園",
+                "name": "芳野学園附属幼稚園",
+                "name_kana": "ヨシノガクエンフゾクヨウチエン",
+                "postcode": "261-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130499,
+                    35.636451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区みつわ台2丁目22-3",
+                "category": "幼稚園",
+                "name": "まこと東幼稚園",
+                "name_kana": "マコトヒガシヨウチエン",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099579,
+                    35.630033
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区弥生町1-33",
+                "category": "幼稚園",
+                "name": "千葉大学教育学部附属幼稚園",
+                "name_kana": "チバダイガクキョウイクガクブフゾクヨウチエン",
+                "postcode": "263-8522"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.189123,
+                    35.539304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区大金沢町381-1",
+                "category": "幼稚園",
+                "name": "おゆみ野南幼稚園",
+                "name_kana": "オユミノミナミヨウチエン",
+                "postcode": "266-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.076518,
+                    35.622689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲2丁目3-24",
+                "category": "幼稚園",
+                "name": "千葉女子専門学校附属聖幼稚園",
+                "name_kana": "チバジョシセンモンガッコウフゾクヒジリヨウチエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114876,
+                    35.615584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区弁天2丁目7-1",
+                "category": "幼稚園",
+                "name": "植草大学附属弁天幼稚園",
+                "name_kana": "ウエクサダイガクフゾクベンテンヨウチエン",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121855,
+                    35.692862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区横戸町857",
+                "category": "幼稚園",
+                "name": "こてはし台幼稚園",
+                "name_kana": "コテハシダイヨウチエン",
+                "postcode": "262-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.215664,
+                    35.545744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区誉田町2丁目24",
+                "category": "幼稚園",
+                "name": "白梅幼稚園",
+                "name_kana": "シラウメヨウチエン",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1086,
+                    35.638271
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区穴川町375",
+                "category": "幼稚園",
+                "name": "穴川花園幼稚園",
+                "name_kana": "アナガワハナゾノヨウチエン",
+                "postcode": "263-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.136792,
+                    35.640559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区みつわ台3丁目6",
+                "category": "幼稚園",
+                "name": "千葉聖心幼稚園",
+                "name_kana": "チバセイシンヨウチエン",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.070283,
+                    35.633619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂1丁目12-9",
+                "category": "幼稚園",
+                "name": "真砂幼稚園",
+                "name_kana": "マサゴヨウチエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.129089,
+                    35.610453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区東本町5−1",
+                "category": "幼稚園",
+                "name": "羔幼稚園",
+                "name_kana": "コヒツジヨウチエン",
+                "postcode": "260-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.089758,
+                    35.687656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川1-29",
+                "category": "幼稚園",
+                "name": "由田学園千葉幼稚園",
+                "name_kana": "ヨシダガクエンチバヨウチエン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.103795,
+                    35.632205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区穴川1丁目4−6",
+                "category": "幼稚園",
+                "name": "弥生幼稚園",
+                "name_kana": "ヤヨイヨウチエン",
+                "postcode": "263-0024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.098692,
+                    35.624314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区緑町1丁目5-17",
+                "category": "幼稚園",
+                "name": "土岐幼稚園",
+                "name_kana": "トキヨウチエン",
+                "postcode": "263-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0892,
+                    35.645192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区小仲台8丁目20-1",
+                "category": "幼稚園",
+                "name": "小中台幼稚園",
+                "name_kana": "コナカダイヨウチエン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113585,
+                    35.632928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区天台1丁目7-17",
+                "category": "幼稚園",
+                "name": "小ばと幼稚園",
+                "name_kana": "コバトヨウチエン",
+                "postcode": "263-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.140586,
+                    35.664799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区山王町153-2",
+                "category": "幼稚園",
+                "name": "山王幼稚園",
+                "name_kana": "サンノウヨウチエン",
+                "postcode": "263-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.104504,
+                    35.641638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区園生町956-6",
+                "category": "幼稚園",
+                "name": "園生幼稚園",
+                "name_kana": "ソンノウヨウチエン",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.080812,
+                    35.641784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区稲毛町5丁目100-1",
+                "category": "幼稚園",
+                "name": "稲毛幼稚園",
+                "name_kana": "イナゲヨウチエン",
+                "postcode": "263-0035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.088704,
+                    35.634042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区稲毛東1丁目14−13",
+                "category": "幼稚園",
+                "name": "稲毛すみれ幼稚園",
+                "name_kana": "イナゲスミレヨウチエン",
+                "postcode": "263-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.110667,
+                    35.630727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区轟町5丁目2−12",
+                "category": "幼稚園",
+                "name": "愛隣幼稚園",
+                "name_kana": "アイリンヨウチエン",
+                "postcode": "263-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.110059,
+                    35.652456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区柏台1-25",
+                "category": "幼稚園",
+                "name": "あやめ台第二幼稚園",
+                "name_kana": "アヤメダイダイニヨウチエン",
+                "postcode": "263-0053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.141879,
+                    35.601892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区矢作町939−6",
+                "category": "幼稚園",
+                "name": "梅乃園幼稚園",
+                "name_kana": "ウメノソノヨウチエン",
+                "postcode": "260-0851"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.142988,
+                    35.616387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区都町1丁目46-22",
+                "category": "幼稚園",
+                "name": "都幼稚園",
+                "name_kana": "ミヤコヨウチエン",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.107391,
+                    35.615133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区新千葉3丁目14−18",
+                "category": "幼稚園",
+                "name": "登戸幼稚園",
+                "name_kana": "ノブトヨウチエン",
+                "postcode": "260-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114464,
+                    35.608691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区新田町5−8",
+                "category": "幼稚園",
+                "name": "双葉幼稚園",
+                "name_kana": "フタバヨウチエン",
+                "postcode": "260-0027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146778,
+                    35.574917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区大巌寺町186",
+                "category": "幼稚園",
+                "name": "大巌寺幼稚園",
+                "name_kana": "ダイガンジヨウチエン",
+                "postcode": "260-0812"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.154581,
+                    35.560637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区南生実町1412",
+                "category": "幼稚園",
+                "name": "千葉明徳短期大学附属幼稚園",
+                "name_kana": "チバメイトクタンキダイガクフゾクヨウチエン",
+                "postcode": "260-0814"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.10526,
+                    35.617861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区汐見丘町11−11",
+                "category": "幼稚園",
+                "name": "聖マリア幼稚園",
+                "name_kana": "セイマリアヨウチエン",
+                "postcode": "260-0034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102038,
+                    35.621137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区春日2丁目12−10",
+                "category": "幼稚園",
+                "name": "翠幼稚園",
+                "name_kana": "ミドリヨウチエン",
+                "postcode": "260-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.15575,
+                    35.585481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区仁戸名町616",
+                "category": "幼稚園",
+                "name": "仁戸名幼稚園",
+                "name_kana": "ニトナヨウチエン",
+                "postcode": "260-0801"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.155351,
+                    35.587966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区仁戸名町552",
+                "category": "幼稚園",
+                "name": "松ケ丘幼稚園",
+                "name_kana": "マツガオカヨウチエン",
+                "postcode": "260-0801"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.149049,
+                    35.609959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区都町1177-1",
+                "category": "幼稚園",
+                "name": "山百合幼稚園",
+                "name_kana": "ヤマユリヨウチエン",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126785,
+                    35.587036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区稲荷町3丁目12-6",
+                "category": "幼稚園",
+                "name": "九重幼稚園",
+                "name_kana": "ココノエヨウチエン",
+                "postcode": "260-0833"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.128032,
+                    35.617546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区祐光1丁目9-5",
+                "category": "幼稚園",
+                "name": "院内幼稚園",
+                "name_kana": "インナイヨウチエン",
+                "postcode": "260-0007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.162174,
+                    35.592039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区仁戸名町205",
+                "category": "幼稚園",
+                "name": "葵幼稚園",
+                "name_kana": "アオイヨウチエン",
+                "postcode": "260-0801"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.151926,
+                    35.586099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区松ケ丘町611",
+                "category": "幼稚園",
+                "name": "ひまわり幼稚園",
+                "name_kana": "ヒマワリヨウチエン",
+                "postcode": "260-0807"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.129516,
+                    35.558268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区浜野町1252-4",
+                "category": "幼稚園",
+                "name": "はまの幼稚園",
+                "name_kana": "ハマノヨウチエン",
+                "postcode": "260-0824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138873,
+                    35.584561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区宮崎町234-1",
+                "category": "幼稚園",
+                "name": "こまどり幼稚園",
+                "name_kana": "コマドリヨウチエン",
+                "postcode": "260-0805"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147555,
+                    35.64343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区都賀の台4丁目26-15",
+                "category": "幼稚園",
+                "name": "都賀の台幼稚園",
+                "name_kana": "ツガノダイヨウチエン",
+                "postcode": "264-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18176,
+                    35.595374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区大宮台6丁目10−3",
+                "category": "幼稚園",
+                "name": "大宮幼稚園",
+                "name_kana": "オオミヤヨウチエン",
+                "postcode": "264-0015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.174331,
+                    35.628023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区小倉台3丁目11-1",
+                "category": "幼稚園",
+                "name": "泉幼稚園",
+                "name_kana": "イズミヨウチエン",
+                "postcode": "264-0006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.157539,
+                    35.624603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区桜木4丁目16−38",
+                "category": "幼稚園",
+                "name": "千葉文化幼稚園",
+                "name_kana": "チバブンカヨウチエン",
+                "postcode": "264-0028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.194388,
+                    35.616568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台東3丁目14-13",
+                "category": "幼稚園",
+                "name": "千城東幼稚園",
+                "name_kana": "チシロヒガシヨウチエン",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.186572,
+                    35.618796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台南2丁目8-4",
+                "category": "幼稚園",
+                "name": "千城台南幼稚園",
+                "name_kana": "チシロダイミナミヨウチエン",
+                "postcode": "264-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.169758,
+                    35.645326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区若松町401",
+                "category": "幼稚園",
+                "name": "若松台幼稚園",
+                "name_kana": "ワカマツダイヨウチエン",
+                "postcode": "264-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.156209,
+                    35.614204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区加曽利町953-3",
+                "category": "幼稚園",
+                "name": "加曽利幼稚園",
+                "name_kana": "カソリヨウチエン",
+                "postcode": "264-0017"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.21518,
+                    35.596768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区高根町898-2",
+                "category": "幼稚園",
+                "name": "やまびこ幼稚園",
+                "name_kana": "ヤマビコヨウチエン",
+                "postcode": "265-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.154911,
+                    35.637508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区都賀5丁目20-26",
+                "category": "幼稚園",
+                "name": "みのり幼稚園",
+                "name_kana": "ミノリヨウチエン",
+                "postcode": "264-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134611,
+                    35.64407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区みつわ台4丁目23-5",
+                "category": "幼稚園",
+                "name": "みつわ台幼稚園",
+                "name_kana": "ミツワダイヨウチエン",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.192068,
+                    35.620134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台東1丁目6-2",
+                "category": "幼稚園",
+                "name": "へいわ幼稚園",
+                "name_kana": "ヘイワヨウチエン",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182096,
+                    35.625544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台西1丁目31-1",
+                "category": "幼稚園",
+                "name": "のぞみ幼稚園",
+                "name_kana": "ノゾミヨウチエン",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.065851,
+                    35.651108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区検見川町1丁目48",
+                "category": "幼稚園",
+                "name": "青い鳥幼稚園",
+                "name_kana": "アオイトリヨウチエン",
+                "postcode": "262-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.092324,
+                    35.666314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区さつきが丘2丁目13",
+                "category": "幼稚園",
+                "name": "青い鳥第二幼稚園",
+                "name_kana": "アオイトリダイニヨウチエン",
+                "postcode": "262-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.084196,
+                    35.661557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区朝日ヶ丘5丁目28-61",
+                "category": "幼稚園",
+                "name": "新検見川幼稚園",
+                "name_kana": "シンケミガワヨウチエン",
+                "postcode": "262-0018"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071448,
+                    35.681241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区長作町610-1",
+                "category": "幼稚園",
+                "name": "信徳寺あさひ幼稚園",
+                "name_kana": "シントクジアサヒヨウチエン",
+                "postcode": "262-0044"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.086701,
+                    35.652303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区西小中台2-1",
+                "category": "幼稚園",
+                "name": "暁幼稚園",
+                "name_kana": "アカツキヨウチエン",
+                "postcode": "262-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096307,
+                    35.692007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川4-14-101",
+                "category": "幼稚園",
+                "name": "花見川幼稚園",
+                "name_kana": "ハナミガワヨウチエン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075511,
+                    35.6519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花園1丁目3-9",
+                "category": "幼稚園",
+                "name": "花園幼稚園",
+                "name_kana": "ハナゾノヨウチエン",
+                "postcode": "262-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.064566,
+                    35.661111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区武石町2丁目1017",
+                "category": "幼稚園",
+                "name": "スガハラ幼稚園",
+                "name_kana": "スガハラヨウチエン",
+                "postcode": "262-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097994,
+                    35.665278
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区さつきが丘1丁目33-1",
+                "category": "幼稚園",
+                "name": "さつきが丘幼稚園",
+                "name_kana": "サツキガオカヨウチエン",
+                "postcode": "262-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.062117,
+                    35.655342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張町5丁目241",
+                "category": "幼稚園",
+                "name": "さざれ幼稚園",
+                "name_kana": "サザレヨウチエン",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.271999,
+                    35.531389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区土気町1630-7",
+                "category": "幼稚園",
+                "name": "土気中央幼稚園",
+                "name_kana": "トケチュウオウヨウチエン",
+                "postcode": "267-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.183857,
+                    35.563049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区辺田町552",
+                "category": "幼稚園",
+                "name": "聖母マリア幼稚園",
+                "name_kana": "セイボマリアヨウチエン",
+                "postcode": "266-0007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.248295,
+                    35.528723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区大木戸町428-1",
+                "category": "幼稚園",
+                "name": "鏡戸幼稚園",
+                "name_kana": "カガミドヨウチエン",
+                "postcode": "267-0057"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.201423,
+                    35.561431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区誉田町1丁目1007",
+                "category": "幼稚園",
+                "name": "ほまれ幼稚園",
+                "name_kana": "ホマレヨウチエン",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.180913,
+                    35.557254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野4丁目30",
+                "category": "幼稚園",
+                "name": "おゆみの幼稚園",
+                "name_kana": "オユミノヨウチエン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.180201,
+                    35.583162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区平山町65-1",
+                "category": "幼稚園",
+                "name": "こざくら幼稚園",
+                "name_kana": "コザクラヨウチエン",
+                "postcode": "266-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.264092,
+                    35.519055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区あすみが丘6丁目23-2",
+                "category": "幼稚園",
+                "name": "あすみ中央幼稚園",
+                "name_kana": "アスミチュウオウヨウチエン",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114995,
+                    35.64665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区園生町468-1",
+                "category": "幼稚園",
+                "name": "あやめ台幼稚園",
+                "name_kana": "アヤメダイヨウチエン",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.091221,
+                    35.620689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幸町2丁目12-8",
+                "category": "幼稚園",
+                "name": "千葉白菊幼稚園",
+                "name_kana": "チバシラギクヨウチエン",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.080438,
+                    35.625477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲2丁目2-16",
+                "category": "幼稚園",
+                "name": "千葉敬愛短期大学附属幼稚園",
+                "name_kana": "チバケイアイタンキダイガクフゾクヨウチエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.082832,
+                    35.628412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲1丁目1-20",
+                "category": "幼稚園",
+                "name": "千葉さざなみ幼稚園",
+                "name_kana": "チバサザナミヨウチエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.064645,
+                    35.63669
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂3丁目14-2",
+                "category": "幼稚園",
+                "name": "真砂白百合幼稚園",
+                "name_kana": "マサゴシラユリヨウチエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0683,
+                    35.640597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂2丁目17-82",
+                "category": "幼稚園",
+                "name": "真砂第一幼稚園",
+                "name_kana": "マサゴダイイチヨウチエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.053087,
+                    35.636192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区磯辺7丁目16-1",
+                "category": "幼稚園",
+                "name": "城徳学園いそべ幼稚園",
+                "name_kana": "ジョウトクガクエンイソベヨウチエン",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102651,
+                    35.612434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幸町1丁目5-1",
+                "category": "幼稚園",
+                "name": "子鹿幼稚園",
+                "name_kana": "コジカヨウチエン",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073097,
+                    35.620004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜1丁目8-2",
+                "category": "幼稚園",
+                "name": "高浜幼稚園",
+                "name_kana": "タカハマヨウチエン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073577,
+                    35.626243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲3丁目3-12",
+                "category": "幼稚園",
+                "name": "高洲幼稚園",
+                "name_kana": "タカスヨウチエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093993,
+                    35.61777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幸町2丁目9-3",
+                "category": "幼稚園",
+                "name": "あいりす幼稚園",
+                "name_kana": "アイリスヨウチエン",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059283,
+                    35.631805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区磯辺4丁目14-1",
+                "category": "幼稚園",
+                "name": "磯辺白百合幼稚園",
+                "name_kana": "イソベシラユリヨウチエン",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.066177,
+                    35.620367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜3丁目2-1",
+                "category": "幼稚園",
+                "name": "めぐみ幼稚園",
+                "name_kana": "メグミヨウチエン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.062646,
+                    35.645999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂5丁目24-1",
+                "category": "幼稚園",
+                "name": "ひばり幼稚園",
+                "name_kana": "ヒバリヨウチエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058063,
+                    35.641462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂4丁目17-2",
+                "category": "幼稚園",
+                "name": "こざくら第二幼稚園",
+                "name_kana": "コザクラダイニヨウチエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.050311,
+                    35.647844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区若葉3丁目2-9",
+                "category": "幼稚園",
+                "name": "幕張インターナショナルスクール幼稚園",
+                "name_kana": "マクハリインターナショナルスクールヨウチエン",
+                "postcode": "261-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.077246,
+                    35.631151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲1丁目17-8",
+                "category": "幼稚園",
+                "name": "植草大学附属美浜幼稚園",
+                "name_kana": "ウエクサダイガクフゾクミハマヨウチエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176235,
+                    35.552816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野中央6丁目13-1",
+                "category": "幼稚園",
+                "name": "花水木幼稚園",
+                "name_kana": "ハナミズキヨウチエン",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.086267,
+                    35.685049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区作新台8丁目7-3",
+                "category": "幼稚園",
+                "name": "千葉しらゆり幼稚園",
+                "name_kana": "チバシラユリヨウチエン",
+                "postcode": "262-0045"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

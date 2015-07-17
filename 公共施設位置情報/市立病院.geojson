@@ -1,0 +1,65 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138591,
+                    35.601427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区青葉町1273番地2",
+                "category": "市立病院",
+                "name": "千葉市立青葉病院",
+                "name_kana": "チバシリツアオバビョウイン",
+                "postcode": "260-0852"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.051252,
+                    35.627705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺3丁目31−1",
+                "category": "市立病院",
+                "name": "千葉市立海浜病院",
+                "name_kana": "チバシリツカイヒンビョウイン",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101441,
+                    35.61002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町1丁目3−9",
+                "building_name": "千葉市総合保健医療センター内",
+                "category": "市立病院",
+                "name": "千葉市 休日救急診療所",
+                "name_kana": "キュウジツキュウキュウシンリョウジョ",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

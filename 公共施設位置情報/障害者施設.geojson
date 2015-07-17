@@ -1,0 +1,115 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.165199,
+                    35.6264137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区桜木8−31−15",
+                "category": "障害者施設",
+                "name": "千葉市 桜木園",
+                "name_kana": "サクラギエン",
+                "postcode": "264-0028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126548,
+                    35.6018535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区亥鼻2丁目10−16",
+                "category": "障害者施設",
+                "name": "千葉市 亥鼻福祉作業所",
+                "name_kana": "イノハナフクシサギョウショ",
+                "postcode": "260-0856"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.172459,
+                    35.5658907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区鎌取町2810−8",
+                "category": "障害者施設",
+                "name": "千葉市 鎌取福祉作業所",
+                "name_kana": "カマトリフクシサギョウショ",
+                "postcode": "266-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068644,
+                    35.6237234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜4丁目8−3",
+                "category": "障害者施設",
+                "name": "千葉市 療育センター",
+                "name_kana": "リョウイクセンター",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.173458,
+                    35.5965062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町3816−1",
+                "category": "障害者施設",
+                "name": "千葉市 大宮学園",
+                "name_kana": "オオミヤガクエン",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134635,
+                    35.5948255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町1208−2",
+                "category": "障害者施設",
+                "name": "千葉市 障害者福祉センター",
+                "name_kana": "ショウガイシャフクシセンター",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,253 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.230273,
+                    35.583831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区野呂町622−10",
+                "category": "図書館",
+                "name": "千葉市 若葉図書館泉分館",
+                "name_kana": "ワカバトショカンイズミブンカン",
+                "postcode": "265-0053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11427,
+                    35.618159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天3丁目7−7",
+                "category": "図書館",
+                "name": "千葉市 中央図書館",
+                "name_kana": "チュウオウトショカン",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138671,
+                    35.608191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区都町3丁目11−3",
+                "category": "図書館",
+                "name": "千葉市 みやこ図書館",
+                "name_kana": "ミヤコトショカン",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138547,
+                    35.579056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区白旗1丁目3−16",
+                "category": "図書館",
+                "name": "千葉市 みやこ図書館白旗分館",
+                "name_kana": "ミヤコトショカンシラハタブンカン",
+                "postcode": "260-0841"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096968,
+                    35.639258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台5丁目1−1",
+                "category": "図書館",
+                "name": "千葉市 稲毛図書館",
+                "name_kana": "イナゲトショカン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.187,
+                    35.622182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台西2丁目1−1",
+                "category": "図書館",
+                "name": "千葉市 若葉図書館",
+                "name_kana": "ワカバトショカン",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144191,
+                    35.637236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区西都賀2丁目8−8",
+                "category": "図書館",
+                "name": "千葉市 若葉図書館西都賀分館",
+                "name_kana": "ワカバトショカンニシツガブンカン",
+                "postcode": "264-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.175703,
+                    35.559952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目15−2",
+                "category": "図書館",
+                "name": "千葉市 緑図書館",
+                "name_kana": "ミドリトショカン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.265203,
+                    35.521279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区あすみが丘7丁目2−4",
+                "building_name": "土気あすみが丘プラザ３Ｆ",
+                "category": "図書館",
+                "name": "千葉市 緑図書館あすみが丘分館",
+                "name_kana": "ミドリトショカンアスミガオカブンカン",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.273239,
+                    35.530758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1634",
+                "building_name": "土気市民センター２Ｆ",
+                "category": "図書館",
+                "name": "千葉市 緑図書館土気図書室",
+                "name_kana": "ミドリトショカントケトショシツ",
+                "postcode": "267-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047184,
+                    35.639715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区打瀬2丁目13",
+                "category": "図書館",
+                "name": "千葉市 美浜図書館打瀬分館",
+                "name_kana": "ミハマトショカンウタセブンカン",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071305,
+                    35.627055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目12−1",
+                "category": "図書館",
+                "name": "千葉市 美浜図書館",
+                "name_kana": "ミハマトショカン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120002,
+                    35.689224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区こてはし台5丁目9−7",
+                "category": "図書館",
+                "name": "千葉市 花見川図書館",
+                "name_kana": "ハナミガワトショカン",
+                "postcode": "262-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096952,
+                    35.688637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花見川3−31−101",
+                "category": "図書館",
+                "name": "千葉市 花見川図書館花見川団地分館",
+                "name_kana": "ハナミガワトショカンハナミガワダンチブンカン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

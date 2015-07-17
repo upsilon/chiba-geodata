@@ -1,0 +1,1934 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114303,
+                    35.607909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新宿2丁目15−1",
+                "category": "小学校",
+                "name": "千葉市 新宿小学校",
+                "name_kana": "チバシシンジュクショウガッコウ",
+                "postcode": "260-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.128119,
+                    35.60932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区本町2丁目6−23",
+                "category": "小学校",
+                "name": "千葉市 本町小学校",
+                "name_kana": "チバシホンチョウショウガッコウ",
+                "postcode": "260-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121804,
+                    35.597317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区寒川町1丁目205",
+                "category": "小学校",
+                "name": "千葉市 寒川小学校",
+                "name_kana": "チバシサムガワショウガッコウ",
+                "postcode": "260-0832"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.107616,
+                    35.612438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区登戸2丁目11−1",
+                "category": "小学校",
+                "name": "千葉市 登戸小学校",
+                "name_kana": "チバシノブトショウガッコウ",
+                "postcode": "260-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125796,
+                    35.615512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区祐光1丁目25−3",
+                "category": "小学校",
+                "name": "千葉市 院内小学校",
+                "name_kana": "チバシインナイショウガッコウ",
+                "postcode": "260-0007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131263,
+                    35.578211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井3丁目15−32",
+                "category": "小学校",
+                "name": "千葉市 蘇我小学校",
+                "name_kana": "チバシソガショウガッコウ",
+                "postcode": "260-0834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144835,
+                    35.612507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区都町1129",
+                "category": "小学校",
+                "name": "千葉市 都小学校",
+                "name_kana": "チバシミヤコショウガッコウ",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120068,
+                    35.629152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区作草部町938",
+                "category": "小学校",
+                "name": "千葉市 都賀小学校",
+                "name_kana": "チバシツガショウガッコウ",
+                "postcode": "263-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068613,
+                    35.648881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町3丁目322−23",
+                "category": "小学校",
+                "name": "千葉市 検見川小学校",
+                "name_kana": "チバシケミガワショウガッコウ",
+                "postcode": "262-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.083025,
+                    35.640697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛町5丁目534−5",
+                "category": "小学校",
+                "name": "千葉市 稲毛小学校",
+                "name_kana": "チバシイナゲショウガッコウ",
+                "postcode": "263-0035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.078677,
+                    35.665423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区畑町1385−1",
+                "category": "小学校",
+                "name": "千葉市 畑小学校",
+                "name_kana": "チバシハタショウガッコウ",
+                "postcode": "262-0018"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097899,
+                    35.647279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台9丁目30−1",
+                "category": "小学校",
+                "name": "千葉市 園生小学校",
+                "name_kana": "チバシソンノウショウガッコウ",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.168745,
+                    35.600051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町2655",
+                "category": "小学校",
+                "name": "千葉市 千城小学校",
+                "name_kana": "チバシチシロショウガッコウ",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.16792,
+                    35.640785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区若松町360−1",
+                "category": "小学校",
+                "name": "千葉市 若松小学校",
+                "name_kana": "チバシワカマツショウガッコウ",
+                "postcode": "264-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144476,
+                    35.580623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区大森町268",
+                "category": "小学校",
+                "name": "千葉市 大森小学校",
+                "name_kana": "チバシオオモリショウガッコウ",
+                "postcode": "260-0811"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.088013,
+                    35.632606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲丘町19−30",
+                "category": "小学校",
+                "name": "千葉市 稲丘小学校",
+                "name_kana": "チバシイナガオカショウガッコウ",
+                "postcode": "263-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18158,
+                    35.612023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区坂月町298",
+                "category": "小学校",
+                "name": "千葉市 坂月小学校",
+                "name_kana": "チバシサカツキショウガッコウ",
+                "postcode": "264-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101136,
+                    35.625803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区弥生町3−18",
+                "category": "小学校",
+                "name": "千葉市 弥生小学校",
+                "name_kana": "チバシヤヨイショウガッコウ",
+                "postcode": "263-0022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073887,
+                    35.656337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花園4丁目1−2",
+                "category": "小学校",
+                "name": "千葉市 花園小学校",
+                "name_kana": "チバシハナゾノショウガッコウ",
+                "postcode": "262-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.108168,
+                    35.67297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区犢橋町774",
+                "category": "小学校",
+                "name": "千葉市 犢橋小学校",
+                "name_kana": "チバシコテハシショウガッコウ",
+                "postcode": "262-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120359,
+                    35.696165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区横戸町1005",
+                "category": "小学校",
+                "name": "千葉市 横戸小学校",
+                "name_kana": "チバシヨコドショウガッコウ",
+                "postcode": "262-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.053897,
+                    35.661433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町4丁目781",
+                "category": "小学校",
+                "name": "千葉市 幕張小学校",
+                "name_kana": "チバシマクハリショウガッコウ",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073743,
+                    35.684214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区長作町1273",
+                "category": "小学校",
+                "name": "千葉市 長作小学校",
+                "name_kana": "チバシナガサクショウガッコウ",
+                "postcode": "262-0044"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.140508,
+                    35.559479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区浜野町1335",
+                "category": "小学校",
+                "name": "千葉市 生浜小学校",
+                "name_kana": "チバシオイハマショウガッコウ",
+                "postcode": "260-0824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.163408,
+                    35.541806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区茂呂町582",
+                "category": "小学校",
+                "name": "千葉市 椎名小学校",
+                "name_kana": "チバシシイナショウガッコウ",
+                "postcode": "266-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.204475,
+                    35.549554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町1丁目27",
+                "category": "小学校",
+                "name": "千葉市 誉田小学校",
+                "name_kana": "チバシホンダショウガッコウ",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.108309,
+                    35.630306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区轟町3丁目4−30",
+                "category": "小学校",
+                "name": "千葉市 轟町小学校",
+                "name_kana": "チバシトドロキチョウショウガッコウ",
+                "postcode": "263-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.133712,
+                    35.60987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区鶴沢町21−1",
+                "category": "小学校",
+                "name": "千葉市 鶴沢小学校",
+                "name_kana": "チバシツルサワショウガッコウ",
+                "postcode": "260-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.180045,
+                    35.568513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区辺田町141",
+                "category": "小学校",
+                "name": "千葉市 平山小学校",
+                "name_kana": "チバシヒラヤマショウガッコウ",
+                "postcode": "266-0007"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.155405,
+                    35.586438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区松ケ丘町580",
+                "category": "小学校",
+                "name": "千葉市 松ケ丘小学校",
+                "name_kana": "チバシマツガオカショウガッコウ",
+                "postcode": "260-0807"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.230974,
+                    35.580907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区野呂町215",
+                "category": "小学校",
+                "name": "千葉市 白井小学校",
+                "name_kana": "チバシシライショウガッコウ",
+                "postcode": "265-0053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.227837,
+                    35.61972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区更科町2073",
+                "category": "小学校",
+                "name": "千葉市 更科小学校",
+                "name_kana": "チバシサラシナショウガッコウ",
+                "postcode": "265-0073"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.136586,
+                    35.583663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区宮崎2丁目3−13",
+                "category": "小学校",
+                "name": "千葉市 宮崎小学校",
+                "name_kana": "チバシミヤザキショウガッコウ",
+                "postcode": "260-0806"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097753,
+                    35.623442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区緑町2丁目13−1",
+                "category": "小学校",
+                "name": "千葉市 緑町小学校",
+                "name_kana": "チバシミドリマチショウガッコウ",
+                "postcode": "263-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167967,
+                    35.584782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区川戸町450",
+                "category": "小学校",
+                "name": "千葉市 川戸小学校",
+                "name_kana": "チバシカワドショウガッコウ",
+                "postcode": "260-0802"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.142685,
+                    35.665341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区山王町121",
+                "category": "小学校",
+                "name": "千葉市 山王小学校",
+                "name_kana": "チバシサンノウショウガッコウ",
+                "postcode": "263-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095854,
+                    35.639676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台6丁目34−1",
+                "category": "小学校",
+                "name": "千葉市 小中台小学校",
+                "name_kana": "チバシコナカダイショウガッコウ",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182235,
+                    35.596181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮台7丁目8−1",
+                "category": "小学校",
+                "name": "千葉市 大宮小学校",
+                "name_kana": "チバシオオミヤショウガッコウ",
+                "postcode": "264-0015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.173037,
+                    35.631903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区小倉台5丁目1−1",
+                "category": "小学校",
+                "name": "千葉市 小倉小学校",
+                "name_kana": "チバシオグラショウガッコウ",
+                "postcode": "264-0006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116007,
+                    35.638225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台5丁目11−1",
+                "category": "小学校",
+                "name": "千葉市 千草台小学校",
+                "name_kana": "チバシチグサダイショウガッコウ",
+                "postcode": "263-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075062,
+                    35.63699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区稲毛海岸5丁目7−1",
+                "category": "小学校",
+                "name": "千葉市 稲毛第二小学校",
+                "name_kana": "チバシイナゲダイニショウガッコウ",
+                "postcode": "261-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.115721,
+                    35.646871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区園生町446−1",
+                "category": "小学校",
+                "name": "千葉市 あやめ台小学校",
+                "name_kana": "チバシアヤメダイショウガッコウ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146688,
+                    35.596806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区星久喜町1060",
+                "category": "小学校",
+                "name": "千葉市 星久喜小学校",
+                "name_kana": "チバシホシクキショウガッコウ",
+                "postcode": "260-0808"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058005,
+                    35.665436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町4丁目681",
+                "category": "小学校",
+                "name": "千葉市 幕張東小学校",
+                "name_kana": "チバシマクハリヒガシショウガッコウ",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097954,
+                    35.694232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花見川4−1",
+                "category": "小学校",
+                "name": "千葉市 花見川第一小学校",
+                "name_kana": "チバシハナミガワダイイチショウガッコウ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.10109,
+                    35.688788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花見川6−1",
+                "category": "小学校",
+                "name": "千葉市 花見川第二小学校",
+                "name_kana": "チバシハナミガワダイニショウガッコウ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.088305,
+                    35.624268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町2丁目17−4",
+                "category": "小学校",
+                "name": "千葉市 幸町第一小学校",
+                "name_kana": "チバシサイワイチョウダイイチショウガッコウ",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094649,
+                    35.617951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町2丁目9−4",
+                "category": "小学校",
+                "name": "千葉市 幸町第二小学校",
+                "name_kana": "チバシサイワイチョウダイニショウガッコウ",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.273411,
+                    35.531626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1634−2",
+                "category": "小学校",
+                "name": "千葉市 土気小学校",
+                "name_kana": "チバシトケショウガッコウ",
+                "postcode": "267-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.112619,
+                    35.616491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天1丁目21−2",
+                "category": "小学校",
+                "name": "千葉市 弁天小学校",
+                "name_kana": "チバシベンテンショウガッコウ",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.159517,
+                    35.621105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区桜木3丁目26−1",
+                "category": "小学校",
+                "name": "千葉市 桜木小学校",
+                "name_kana": "チバシサクラギショウガッコウ",
+                "postcode": "264-0028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18372,
+                    35.628698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台北1丁目4−1",
+                "category": "小学校",
+                "name": "千葉市 千城台北小学校",
+                "name_kana": "チバシチシロダイキタショウガッコウ",
+                "postcode": "264-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182551,
+                    35.622764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台西2丁目21−1",
+                "category": "小学校",
+                "name": "千葉市 千城台西小学校",
+                "name_kana": "チバシチシロダイニシショウガッコウ",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109734,
+                    35.658964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区宮野木町2100",
+                "category": "小学校",
+                "name": "千葉市 宮野木小学校",
+                "name_kana": "チバシミヤノギショウガッコウ",
+                "postcode": "263-0054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131289,
+                    35.558963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区塩田町316−1",
+                "category": "小学校",
+                "name": "千葉市 生浜西小学校",
+                "name_kana": "チバシオイハマニシショウガッコウ",
+                "postcode": "260-0823"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.158669,
+                    35.59256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区仁戸名町380",
+                "category": "小学校",
+                "name": "千葉市 仁戸名小学校",
+                "name_kana": "チバシニトナショウガッコウ",
+                "postcode": "260-0801"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.122685,
+                    35.68794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区こてはし台2丁目28−1",
+                "category": "小学校",
+                "name": "千葉市 こてはし台小学校",
+                "name_kana": "チバシコテハシダイショウガッコウ",
+                "postcode": "262-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.08827,
+                    35.685705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花見川1−1",
+                "category": "小学校",
+                "name": "千葉市 花見川第三小学校",
+                "name_kana": "チバシハナミガワダイサンショウガッコウ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.086281,
+                    35.650972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区西小中台3−1",
+                "category": "小学校",
+                "name": "千葉市 西小中台小学校",
+                "name_kana": "チバシニシコナカダイショウガッコウ",
+                "postcode": "262-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099185,
+                    35.663923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区さつきが丘1丁目7",
+                "category": "小学校",
+                "name": "千葉市 さつきが丘東小学校",
+                "name_kana": "チバシサツキガオカヒガシショウガッコウ",
+                "postcode": "262-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.090918,
+                    35.667364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区さつきが丘2丁目14",
+                "category": "小学校",
+                "name": "千葉市 さつきが丘西小学校",
+                "name_kana": "チバシサツキガオカニシショウガッコウ",
+                "postcode": "262-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0798609,
+                    35.62514795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲2丁目2−20",
+                "category": "小学校",
+                "name": "千葉市 高洲小学校",
+                "name_kana": "チバシタカスショウガッコウ",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.145034,
+                    35.628665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区貝塚町1093",
+                "category": "小学校",
+                "name": "千葉市 北貝塚小学校",
+                "name_kana": "チバシキタカイヅカショウガッコウ",
+                "postcode": "264-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.149072,
+                    35.573157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区大巌寺町375",
+                "category": "小学校",
+                "name": "千葉市 大巌寺小学校",
+                "name_kana": "チバシダイガンジショウガッコウ",
+                "postcode": "260-0812"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.038036,
+                    35.664865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幕張西2丁目8−1",
+                "category": "小学校",
+                "name": "千葉市 幕張西小学校",
+                "name_kana": "チバシマクハリニシショウガッコウ",
+                "postcode": "261-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.186184,
+                    35.585079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町2082",
+                "category": "小学校",
+                "name": "千葉市 大宮台小学校",
+                "name_kana": "チバシオオミヤダイショウガッコウ",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125533,
+                    35.65317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区園生町1385",
+                "category": "小学校",
+                "name": "千葉市 草野小学校",
+                "name_kana": "チバシクサノショウガッコウ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.10734,
+                    35.648613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区園生町588",
+                "category": "小学校",
+                "name": "千葉市 柏台小学校",
+                "name_kana": "チバシカシワダイショウガッコウ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.191512,
+                    35.62234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台東1丁目15−1",
+                "category": "小学校",
+                "name": "千葉市 千城台東小学校",
+                "name_kana": "チバシチシロダイヒガシショウガッコウ",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059043,
+                    35.6426705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂4丁目5-1",
+                "category": "小学校",
+                "name": "千葉市 真砂西小学校",
+                "name_kana": "チバシマサゴニシショウガッコウ",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.189326,
+                    35.618273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台南1丁目19−1",
+                "category": "小学校",
+                "name": "千葉市 千城台南小学校",
+                "name_kana": "チバシチシロダイミナミショウガッコウ",
+                "postcode": "264-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.089395,
+                    35.646589
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台8丁目15−1",
+                "category": "小学校",
+                "name": "千葉市 小中台南小学校",
+                "name_kana": "チバシコナカダイミナミショウガッコウ",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099009,
+                    35.61127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町1丁目10−1",
+                "category": "小学校",
+                "name": "千葉市 幸町第三小学校",
+                "name_kana": "チバシサイワイチョウダイサンショウガッコウ",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.065895,
+                    35.637305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂2丁目13−1",
+                "category": "小学校",
+                "name": "千葉市 真砂東小学校",
+                "name_kana": "チバシマサゴヒガシショウガッコウ",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074168,
+                    35.626726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目3−11",
+                "category": "小学校",
+                "name": "千葉市 高洲第三小学校",
+                "name_kana": "チバシタカスダイサンショウガッコウ",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.122913,
+                    35.631633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区作草部町1298−1",
+                "category": "小学校",
+                "name": "千葉市 千草台東小学校",
+                "name_kana": "チバシチグサダイヒガシショウガッコウ",
+                "postcode": "263-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.077952,
+                    35.630763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲1丁目15−1",
+                "category": "小学校",
+                "name": "千葉市 高洲第四小学校",
+                "name_kana": "チバシタカスダイヨンショウガッコウ",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069148,
+                    35.632619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂1丁目12−15",
+                "category": "小学校",
+                "name": "千葉市 真砂第五小学校",
+                "name_kana": "チバシマサゴダイゴショウガッコウ",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.07605,
+                    35.620059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜1丁目4−1",
+                "category": "小学校",
+                "name": "千葉市 高浜第一小学校",
+                "name_kana": "チバシタカハマダイイチショウガッコウ",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.084343,
+                    35.629948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区稲毛海岸2丁目3−2",
+                "category": "小学校",
+                "name": "千葉市 稲浜小学校",
+                "name_kana": "チバシイナハマショウガッコウ",
+                "postcode": "261-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.084471,
+                    35.687734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区作新台7丁目2−1",
+                "category": "小学校",
+                "name": "千葉市 作新小学校",
+                "name_kana": "チバシサクシンショウガッコウ",
+                "postcode": "262-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.137485,
+                    35.641346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目5−1",
+                "category": "小学校",
+                "name": "千葉市 みつわ台北小学校",
+                "name_kana": "チバシミツワダイキタショウガッコウ",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.218211,
+                    35.549533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町2丁目21−84",
+                "category": "小学校",
+                "name": "千葉市 誉田東小学校",
+                "name_kana": "チバシホンダヒガシショウガッコウ",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.250121,
+                    35.530358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区大木戸町317",
+                "category": "小学校",
+                "name": "千葉市 大木戸小学校",
+                "name_kana": "チバシオオキドショウガッコウ",
+                "postcode": "267-0057"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.195927,
+                    35.61735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台東3丁目18−1",
+                "category": "小学校",
+                "name": "千葉市 千城台旭小学校",
+                "name_kana": "チバシチシロダイアサヒショウガッコウ",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106327,
+                    35.709096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区柏井4丁目48−1",
+                "category": "小学校",
+                "name": "千葉市 柏井小学校",
+                "name_kana": "チバシカシワイショウガッコウ",
+                "postcode": "262-0048"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130469,
+                    35.633994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台1丁目17−1",
+                "category": "小学校",
+                "name": "千葉市 みつわ台南小学校",
+                "name_kana": "チバシミツワダイミナミショウガッコウ",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.171604,
+                    35.650097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区若松台2丁目25−1",
+                "category": "小学校",
+                "name": "千葉市 若松台小学校",
+                "name_kana": "チバシワカマツダイショウガッコウ",
+                "postcode": "264-0027"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047183,
+                    35.657064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町3丁目7718",
+                "category": "小学校",
+                "name": "千葉市 幕張南小学校",
+                "name_kana": "チバシマクハリミナミショウガッコウ",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0698564,
+                    35.62318971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜4丁目8−2",
+                "category": "小学校",
+                "name": "千葉市 高浜海浜小学校",
+                "name_kana": "チバシタカハマカイヒンショウガッコウ",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.141663,
+                    35.643833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀の台2丁目13−1",
+                "category": "小学校",
+                "name": "千葉市 都賀の台小学校",
+                "name_kana": "チバシツガノダイショウガッコウ",
+                "postcode": "264-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.050455,
+                    35.668121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷4丁目8−1",
+                "category": "小学校",
+                "name": "千葉市 上の台小学校",
+                "name_kana": "チバシウエノダイショウガッコウ",
+                "postcode": "262-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.064158,
+                    35.630095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺1丁目25−1",
+                "category": "小学校",
+                "name": "千葉市 磯辺第三小学校",
+                "name_kana": "チバシイソベダイサンショウガッコウ",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131757,
+                    35.648724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区源町541−6",
+                "category": "小学校",
+                "name": "千葉市 源小学校",
+                "name_kana": "チバシミナモトショウガッコウ",
+                "postcode": "264-0037"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.237031,
+                    35.532181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区越智町705−359",
+                "category": "小学校",
+                "name": "千葉市 越智小学校",
+                "name_kana": "チバシオチショウガッコウ",
+                "postcode": "267-0055"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058101,
+                    35.631764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺4丁目16−1",
+                "category": "小学校",
+                "name": "千葉市 磯辺小学校",
+                "name_kana": "チバシイソベショウガッコウ",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.085498,
+                    35.659167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区朝日ケ丘2丁目6−1",
+                "category": "小学校",
+                "name": "千葉市 朝日ケ丘小学校",
+                "name_kana": "チバシアサヒガオカショウガッコウ",
+                "postcode": "262-0019"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147935,
+                    35.559876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区生実町1928",
+                "category": "小学校",
+                "name": "千葉市 生浜東小学校",
+                "name_kana": "チバシオイハマヒガシショウガッコウ",
+                "postcode": "260-0813"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.173601,
+                    35.554944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央4丁目3",
+                "category": "小学校",
+                "name": "千葉市 泉谷小学校",
+                "name_kana": "チバシイズミヤショウガッコウ",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.265151,
+                    35.523776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区あすみが丘4丁目16",
+                "category": "小学校",
+                "name": "千葉市 土気南小学校",
+                "name_kana": "チバシトケミナミショウガッコウ",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.04597,
+                    35.666154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷3丁目22−6",
+                "category": "小学校",
+                "name": "千葉市 西の谷小学校",
+                "name_kana": "チバシニシノヤショウガッコウ",
+                "postcode": "262-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.181597,
+                    35.555199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野4丁目45",
+                "category": "小学校",
+                "name": "千葉市 小谷小学校",
+                "name_kana": "チバシコヤツショウガッコウ",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.262104,
+                    35.514676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区あすみが丘6丁目38",
+                "category": "小学校",
+                "name": "千葉市 大椎小学校",
+                "name_kana": "チバシオオジショウガッコウ",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.16606,
+                    35.561272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野1丁目53",
+                "category": "小学校",
+                "name": "千葉市 有吉小学校",
+                "name_kana": "チバシアリヨシショウガッコウ",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047293,
+                    35.642022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区打瀬1丁目3−1",
+                "category": "小学校",
+                "name": "千葉市 打瀬小学校",
+                "name_kana": "チバシウタセショウガッコウ",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.172407,
+                    35.547467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野南5丁目31",
+                "category": "小学校",
+                "name": "千葉市 金沢小学校",
+                "name_kana": "チバシカネザワショウガッコウ",
+                "postcode": "266-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.263195,
+                    35.519841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区あすみが丘6丁目2",
+                "category": "小学校",
+                "name": "千葉市 あすみが丘小学校",
+                "name_kana": "チバシアスミガオカショウガッコウ",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.163089,
+                    35.556785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央1丁目26",
+                "category": "小学校",
+                "name": "千葉市 扇田小学校",
+                "name_kana": "チバシオウギダショウガッコウ",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068346,
+                    35.663633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区瑞穂1丁目2",
+                "category": "小学校",
+                "name": "千葉市 瑞穂小学校",
+                "name_kana": "チバシミズホショウガッコウ",
+                "postcode": "262-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.041401,
+                    35.640666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区打瀬3丁目3−1",
+                "category": "小学校",
+                "name": "千葉市 海浜打瀬小学校",
+                "name_kana": "チバシカイヒンウタセショウガッコウ",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.168346,
+                    35.545255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野南4丁目26",
+                "category": "小学校",
+                "name": "千葉市 おゆみ野南小学校",
+                "name_kana": "チバシオユミノミナミショウガッコウ",
+                "postcode": "266-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094932,
+                    35.683617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花見川8−1",
+                "category": "小学校",
+                "name": "千葉市 花島小学校",
+                "name_kana": "チバシハナシマショウガッコウ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.04434,
+                    35.638063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区打瀬2丁目18−1",
+                "category": "小学校",
+                "name": "千葉市 美浜打瀬小学校",
+                "name_kana": "チバシミハマウタセショウガッコウ",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

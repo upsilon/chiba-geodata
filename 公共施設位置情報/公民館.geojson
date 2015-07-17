@@ -1,0 +1,765 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073378,
+                    35.620207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜1丁目8−3",
+                "category": "公民館",
+                "name": "千葉市 高浜公民館",
+                "name_kana": "タカハマコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.151861,
+                    35.588169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区松ヶ丘町257−2",
+                "category": "公民館",
+                "name": "千葉市 松ヶ丘公民館",
+                "name_kana": "マツガオカコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.141769,
+                    35.559637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区生実町67−1",
+                "category": "公民館",
+                "name": "千葉市 生浜公民館",
+                "name_kana": "オイハマコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113775,
+                    35.606858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新宿2丁目16−14",
+                "category": "公民館",
+                "name": "千葉市 新宿公民館",
+                "name_kana": "シンジュクコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.136829,
+                    35.580617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区宮崎2丁目5−22",
+                "category": "公民館",
+                "name": "千葉市 宮崎公民館",
+                "name_kana": "ミヤザキコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130896,
+                    35.59964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区葛城2丁目9−2",
+                "category": "公民館",
+                "name": "千葉市 葛城公民館",
+                "name_kana": "カツラギコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125233,
+                    35.593978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区末広3丁目2−2",
+                "category": "公民館",
+                "name": "千葉市 末広公民館",
+                "name_kana": "スエヒロコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.123848,
+                    35.620125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区椿森6丁目1−11",
+                "category": "公民館",
+                "name": "千葉市 椿森公民館",
+                "name_kana": "ツバキモリコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.166882,
+                    35.581942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区川戸町403−1",
+                "category": "公民館",
+                "name": "千葉市 川戸公民館",
+                "name_kana": "カワドコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.151177,
+                    35.597701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区星久喜町615−7",
+                "category": "公民館",
+                "name": "千葉市 星久喜公民館",
+                "name_kana": "ホシグキコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.055428,
+                    35.660265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町4丁目−602",
+                "category": "公民館",
+                "name": "千葉市 幕張公民館",
+                "name_kana": "マクハリコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.06965,
+                    35.657782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花園3丁目12−8",
+                "category": "公民館",
+                "name": "千葉市 花園公民館",
+                "name_kana": "ハナゾノコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1136,
+                    35.66681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区犢橋町162−1",
+                "category": "公民館",
+                "name": "千葉市 犢橋公民館",
+                "name_kana": "コテハシコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.067343,
+                    35.649268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町3丁目322−25",
+                "category": "公民館",
+                "name": "千葉市 検見川公民館",
+                "name_kana": "ケミガワコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099678,
+                    35.695591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区柏井町1590−8",
+                "category": "公民館",
+                "name": "千葉市 花見川公民館",
+                "name_kana": "ハナミガワコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096922,
+                    35.665081
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区さつきが丘1丁目32−4",
+                "category": "公民館",
+                "name": "千葉市 さつきが丘公民館",
+                "name_kana": "サツキガオカコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121033,
+                    35.692935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区横戸町861−4",
+                "category": "公民館",
+                "name": "千葉市 こてはし台公民館",
+                "name_kana": "コテハシダイコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.079025,
+                    35.680342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区長作町1722−1",
+                "category": "公民館",
+                "name": "千葉市 長作公民館",
+                "name_kana": "ナガサクコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.089175,
+                    35.655612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区朝日ヶ丘1丁目1−30",
+                "category": "公民館",
+                "name": "千葉市 朝日ヶ丘公民館",
+                "name_kana": "アサヒガオカコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.03917,
+                    35.668189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷2丁目19−33",
+                "category": "公民館",
+                "name": "千葉市 幕張本郷公民館",
+                "name_kana": "マクハリホンゴウコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099081,
+                    35.639361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台5丁目7−1",
+                "category": "公民館",
+                "name": "千葉市 小中台公民館",
+                "name_kana": "コナカダイコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093986,
+                    35.626439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区黒砂2丁目4−18",
+                "category": "公民館",
+                "name": "千葉市 黒砂公民館",
+                "name_kana": "クロスナコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109721,
+                    35.624684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区轟町1丁目12−3",
+                "category": "公民館",
+                "name": "千葉市 轟公民館",
+                "name_kana": "トドロキコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.08339,
+                    35.636562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛1丁目10−17",
+                "category": "公民館",
+                "name": "千葉市 稲毛公民館",
+                "name_kana": "イナゲコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116799,
+                    35.633774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台3丁目16−5",
+                "category": "公民館",
+                "name": "千葉市 千草台公民館",
+                "name_kana": "チグサダイコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.119791,
+                    35.654072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区園生町384−93",
+                "category": "公民館",
+                "name": "千葉市 草野公民館",
+                "name_kana": "クサノコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.145562,
+                    35.657532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区六方町55−29",
+                "category": "公民館",
+                "name": "千葉市 山王公民館",
+                "name_kana": "サンノウコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.117696,
+                    35.625485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区作草部2丁目8−53",
+                "category": "公民館",
+                "name": "千葉市 都賀公民館",
+                "name_kana": "ツガコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.107228,
+                    35.657817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区宮野木町1807−3",
+                "category": "公民館",
+                "name": "千葉市 緑が丘公民館",
+                "name_kana": "ミドリガオカコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.187218,
+                    35.622313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台西2丁目1−1",
+                "category": "公民館",
+                "name": "千葉市 千城台公民館",
+                "name_kana": "チシロダイコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.227794,
+                    35.6178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区更科町2254−1",
+                "category": "公民館",
+                "name": "千葉市 更科公民館",
+                "name_kana": "サラシナコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.23034,
+                    35.583519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区野呂町622−10",
+                "category": "公民館",
+                "name": "千葉市 白井公民館",
+                "name_kana": "シライコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.152057,
+                    35.612151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区加曽利町892−6",
+                "category": "公民館",
+                "name": "千葉市 加曽利公民館",
+                "name_kana": "カソリコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.181029,
+                    35.596559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町3221−2",
+                "category": "公民館",
+                "name": "千葉市 大宮公民館",
+                "name_kana": "オオミヤコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135506,
+                    35.639241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目12−17",
+                "category": "公民館",
+                "name": "千葉市 みつわ台公民館",
+                "name_kana": "ミツワダイコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167547,
+                    35.635095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区若松町2117−2",
+                "category": "公民館",
+                "name": "千葉市 若松公民館",
+                "name_kana": "ワカマツコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.160381,
+                    35.622766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区桜木3丁目17−29",
+                "category": "公民館",
+                "name": "千葉市 桜木公民館",
+                "name_kana": "サクラギコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.203232,
+                    35.549869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町1丁目789−49",
+                "category": "公民館",
+                "name": "千葉市 誉田公民館",
+                "name_kana": "ホンダコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.163851,
+                    35.543662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区富岡町290−1",
+                "category": "公民館",
+                "name": "千葉市 椎名公民館",
+                "name_kana": "シイナコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.273646,
+                    35.530729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1631−7",
+                "category": "公民館",
+                "name": "千葉市 土気公民館",
+                "name_kana": "トケコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.236383,
+                    35.534883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区越智町822−7",
+                "category": "公民館",
+                "name": "千葉市 越智公民館",
+                "name_kana": "オチコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.079466,
+                    35.631989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区稲毛海岸3丁目4−1",
+                "category": "公民館",
+                "name": "千葉市 稲浜公民館",
+                "name_kana": "イナハマコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.03636,
+                    35.665574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幕張西2丁目6−2",
+                "category": "公民館",
+                "name": "千葉市 幕張西公民館",
+                "name_kana": "マクハリニシコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.061778,
+                    35.628198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺1丁目48−1",
+                "category": "公民館",
+                "name": "千葉市 磯辺公民館",
+                "name_kana": "イソベコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.092357,
+                    35.620676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町2丁目12−14",
+                "category": "公民館",
+                "name": "千葉市 幸町公民館",
+                "name_kana": "サイワイチョウコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.046798,
+                    35.639519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区打瀬2丁目13",
+                "category": "公民館",
+                "name": "千葉市 打瀬公民館",
+                "name_kana": "ウタセコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.16389,
+                    35.556047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央2丁目7−6",
+                "category": "公民館",
+                "name": "千葉市 おゆみ野公民館",
+                "name_kana": "オユミノコウミンカン"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

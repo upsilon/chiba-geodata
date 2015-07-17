@@ -1,0 +1,1084 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.206283,
+                    35.639735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区下田町1005番地",
+                "category": "スポーツ施設",
+                "name": "千葉市民ゴルフ場",
+                "name_kana": "チバシミンゴルフジョウ",
+                "postcode": "265-0076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11627,
+                    35.673307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区三角町750",
+                "category": "スポーツ施設",
+                "name": "千葉市 こてはし温水プール（多目的ホール、研修室）",
+                "name_kana": "コテハシオンスイプール（タモクテキホール、ケンシュウシツ）",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.111797,
+                    35.602902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区問屋町1−20",
+                "category": "スポーツ施設",
+                "name": "千葉ポートアリーナ（体力測定室）　　",
+                "name_kana": "チバポートアリーナ（タイリョクソクテイシツ）",
+                "postcode": "260-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071248,
+                    35.611044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区新港224−1",
+                "category": "スポーツ施設",
+                "name": "アクアリンクちば（千葉アイススケート場）",
+                "name_kana": "アクアリンクチバ（チバアイススケートジョウ）",
+                "postcode": "261-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.056001,
+                    35.624027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺2丁目8−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 稲毛ヨットハーバー",
+                "name_kana": "イナゲヨットハーバー",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068354,
+                    35.612783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜7丁目1−3",
+                "category": "スポーツ施設",
+                "name": "千葉市 稲毛海浜公園スポーツ施設（屋内運動場）",
+                "name_kana": "イナゲカイヒンコウエンスポーツシセツ（オクナイウンドウジョウ）",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.224129,
+                    35.601418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区中田町1200−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 中田スポーツセンター（多目的運動場、グラウンドゴルフ場）",
+                "name_kana": "ナカタスポーツセンター（タモクテキウンドウジョウ、グラウンドゴルフジョウ）",
+                "postcode": "265-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.177179,
+                    35.597489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町3417",
+                "category": "スポーツ施設",
+                "name": "千葉市 大宮スポーツ広場（多目的広場）",
+                "name_kana": "オオミヤスポーツヒロバ（タモクテキヒロバ）",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11627,
+                    35.673307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区三角町750",
+                "category": "スポーツ施設",
+                "name": "千葉市 こてはし温水プール（トレーニング室）",
+                "name_kana": "コテハシオンスイプール（トレーニングシツ）",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11172,
+                    35.602902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区問屋町1−20",
+                "category": "スポーツ施設",
+                "name": "千葉ポートアリーナ（トレーニング室）",
+                "name_kana": "チバポートアリーナ（トレーニングシツ）",
+                "postcode": "260-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096965,
+                    35.68149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花島町308",
+                "category": "スポーツ施設",
+                "name": "千葉市 花島公園スポーツ施設（トレーニング室）",
+                "name_kana": "ハナシマコウエンスポーツシセツ（トレーニングシツ）",
+                "postcode": "262-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.105819,
+                    35.66299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区宮野木町2150番地4",
+                "category": "スポーツ施設",
+                "name": "千葉市 宮野木スポーツセンター（トレーニング室）",
+                "name_kana": "ミヤノギスポーツセンター（トレーニングシツ）",
+                "postcode": "263-0054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13626,
+                    35.640936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目3−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 みつわ台第２公園スポーツ施設（トレーニング室）",
+                "name_kana": "ミツワダイダイニコウエンスポーツシセツ（トレーニングシツ）",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146316,
+                    35.549863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区古市場町474−277",
+                "category": "スポーツ施設",
+                "name": "千葉市 古市場公園スポーツ施設（トレーニング室）",
+                "name_kana": "フルイチバコウエンスポーツシセツ（トレーニングシツ）",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075519,
+                    35.633593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲4丁目2−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 高洲市民プール（トレーニング室）",
+                "name_kana": "タカスシミンプール（トレーニングシツ）",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134824,
+                    35.641757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目3−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 みつわ台第２公園スポーツ施設（プール）",
+                "name_kana": "ミツワダイダイニコウエンスポーツシセツ（プール）",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167764,
+                    35.55691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野有吉34−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 有吉公園スポーツ施設（プール）",
+                "name_kana": "アリヨシコウエンスポーツシセツ（プール）",
+                "postcode": "266-0034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147496,
+                    35.549832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区古市場町474−277",
+                "category": "スポーツ施設",
+                "name": "千葉市 古市場公園スポーツ施設（プール）",
+                "name_kana": "フルイチバコウエンスポーツシセツ（プール）",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.100155,
+                    35.611148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町1丁目4",
+                "category": "スポーツ施設",
+                "name": "千葉市 幸町公園水泳プール",
+                "name_kana": "サイワイチョウコウエンスイエイプール",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075519,
+                    35.633593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲4丁目2−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 高洲市民プール（プール）",
+                "name_kana": "タカスシミンプール（プール）",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113695,
+                    35.621085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天3丁目1−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 千葉公園スポーツ施設（プール）",
+                "name_kana": "チバコウエンスポーツシセツ（プール）",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0673,
+                    35.6145794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜7-1-1",
+                "category": "スポーツ施設",
+                "name": "稲毛海浜公園プール",
+                "name_kana": "イナゲカイヒンコウエンプール",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11627,
+                    35.673307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区三角町750",
+                "category": "スポーツ施設",
+                "name": "千葉市 こてはし温水プール（温水プール）",
+                "name_kana": "コテハシオンスイプール（オンスイプール）",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.202923,
+                    35.609727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区北谷津町327−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 北谷津温水プール",
+                "name_kana": "キタヤツオンスイプール",
+                "postcode": "265-0067"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.224206,
+                    35.601445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区中田町1200−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 中田スポーツセンター（球技場）",
+                "name_kana": "ナカタスポーツセンター（キュウギジョウ）",
+                "postcode": "265-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069049,
+                    35.612243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜7丁目1−3",
+                "category": "スポーツ施設",
+                "name": "千葉市 稲毛海浜公園スポーツ施設（球技場）",
+                "name_kana": "イナゲカイヒンコウエンスポーツシセツ（キュウギジョウ）",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114972,
+                    35.622412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天4丁目1−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 千葉公園スポーツ施設（球技場）",
+                "name_kana": "チバコウエンスポーツシセツ（キュウギジョウ）",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.098236,
+                    35.682022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花島町308",
+                "category": "スポーツ施設",
+                "name": "千葉市 花島公園スポーツ施設（球技場）",
+                "name_kana": "ハナシマコウエンスポーツシセツ（キュウギジョウ）",
+                "postcode": "262-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11627,
+                    35.673307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区三角町750",
+                "category": "スポーツ施設",
+                "name": "千葉市 こてはし温水プール（スポーツ室）",
+                "name_kana": "コテハシオンスイプール（スポーツシツ）",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.111797,
+                    35.602902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区問屋町1−20",
+                "category": "スポーツ施設",
+                "name": "千葉ポートアリーナ（メインアリーナ、サブアリーナ）　　　",
+                "name_kana": "チバポートアリーナ（メインアリーナ、サブアリーナ）",
+                "postcode": "260-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096965,
+                    35.68149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花島町308",
+                "category": "スポーツ施設",
+                "name": "千葉市 花島公園スポーツ施設（体育館）",
+                "name_kana": "ハナシマコウエンスポーツシセツ（タイイクカン）",
+                "postcode": "262-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.105819,
+                    35.66299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区宮野木町2150番地4",
+                "category": "スポーツ施設",
+                "name": "千葉市 宮野木スポーツセンター（体育館）",
+                "name_kana": "ミヤノギスポーツセンター（タイイクカン）",
+                "postcode": "263-0054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113773,
+                    35.620148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天3丁目1−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 千葉公園スポーツ施設（体育館）",
+                "name_kana": "チバコウエンスポーツシセツ（タイイクカン）",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146316,
+                    35.549863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区古市場町474−277",
+                "category": "スポーツ施設",
+                "name": "千葉市 古市場公園スポーツ施設（体育館）",
+                "name_kana": "フルイチバコウエンスポーツシセツ（タイイクカン）",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13626,
+                    35.640936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目3−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 みつわ台第２公園スポーツ施設（体育館）",
+                "name_kana": "ミツワダイダイニコウエンスポーツシセツ（タイイクカン）",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075519,
+                    35.633593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲4丁目2−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 高洲市民プール（体育館）",
+                "name_kana": "タカスシミンプール（タイイクカン）",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11479,
+                    35.621655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天4丁目1−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 千葉公園スポーツ施設（庭球場）",
+                "name_kana": "チバコウエンスポーツシセツ（テイキュウジョウ）",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.223066,
+                    35.602098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区中田町1200−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 中田スポーツセンター（庭球場）",
+                "name_kana": "ナカタスポーツセンター（テイキュウジョウ）",
+                "postcode": "265-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134559,
+                    35.641504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目3−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 みつわ台第２公園スポーツ施設（庭球場）",
+                "name_kana": "ミツワダイダイニコウエンスポーツシセツ（テイキュウジョウ）",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167389,
+                    35.556729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野有吉34−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 有吉公園スポーツ施設（庭球場）",
+                "name_kana": "アリヨシコウエンスポーツシセツ（テイキュウジョウ）",
+                "postcode": "266-0034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146885,
+                    35.548533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区古市場町474−277",
+                "category": "スポーツ施設",
+                "name": "千葉市 古市場公園スポーツ施設（庭球場）",
+                "name_kana": "フルイチバコウエンスポーツシセツ（テイキュウジョウ）",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.070426,
+                    35.618852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜2丁目1",
+                "category": "スポーツ施設",
+                "name": "千葉市 高浜庭球場",
+                "name_kana": "タカハマテイキュウジョウ",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068166,
+                    35.614703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜7丁目1−3",
+                "category": "スポーツ施設",
+                "name": "千葉市 稲毛海浜公園スポーツ施設（庭球場）",
+                "name_kana": "イナゲカイヒンコウエンスポーツシセツ（テイキュウジョウ）",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.10509,
+                    35.662201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区宮野木町2150番地4",
+                "category": "スポーツ施設",
+                "name": "千葉市 宮野木スポーツセンター（庭球場）",
+                "name_kana": "ミヤノギスポーツセンター（テイキュウジョウ）",
+                "postcode": "263-0054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.098181,
+                    35.681057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花島町308",
+                "category": "スポーツ施設",
+                "name": "千葉市 花島公園スポーツ施設（庭球場）",
+                "name_kana": "ハナシマコウエンスポーツシセツ（テイキュウジョウ）",
+                "postcode": "262-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176926,
+                    35.597643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町3417",
+                "category": "スポーツ施設",
+                "name": "千葉市 大宮スポーツ広場（庭球場）",
+                "name_kana": "オオミヤスポーツヒロバ（テイキュウジョウ）",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13677,
+                    35.580832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区宮崎2丁目5−26",
+                "category": "スポーツ施設",
+                "name": "千葉市 宮崎スポーツ広場",
+                "name_kana": "ミヤザキスポーツヒロバ",
+                "postcode": "260-0806"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126886,
+                    35.59559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区末広2丁目11−24",
+                "category": "スポーツ施設",
+                "name": "千葉市 武道館（弓道場）",
+                "name_kana": "ブドウカン（キュウドウジョウ）",
+                "postcode": "260-0843"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126886,
+                    35.59559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区末広2丁目11−24",
+                "category": "スポーツ施設",
+                "name": "千葉市 武道館（剣道場）",
+                "name_kana": "ブドウカン（ケンドウジョウ）",
+                "postcode": "260-0843"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126886,
+                    35.59559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区末広2丁目11−24",
+                "category": "スポーツ施設",
+                "name": "千葉市 武道館（柔道場）",
+                "name_kana": "ブドウカン（ジュウドウジョウ）",
+                "postcode": "260-0843"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097844,
+                    35.681224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花島町308",
+                "category": "スポーツ施設",
+                "name": "千葉市 花島公園スポーツ施設（弓道場）",
+                "name_kana": "ハナシマコウエンスポーツシセツ（キュウドウジョウ）",
+                "postcode": "262-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.148003,
+                    35.549615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区古市場町474−277",
+                "category": "スポーツ施設",
+                "name": "千葉市 古市場公園スポーツ施設（千葉市相撲場）",
+                "name_kana": "フルイチバコウエンスポーツシセツ（チバシスモウジョウ）",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.224303,
+                    35.602874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区中田町1200−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 中田スポーツセンター（野球場）",
+                "name_kana": "ナカタスポーツセンター（ヤキュウジョウ）",
+                "postcode": "265-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.119372,
+                    35.677543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区三角町656−4",
+                "category": "スポーツ施設",
+                "name": "千葉市 犢橋公園野球場",
+                "name_kana": "コテハシコウエンヤキュウジョウ",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135675,
+                    35.641225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目3−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 みつわ台第２公園スポーツ施設（野球場）",
+                "name_kana": "ミツワダイダイニコウエンスポーツシセツ（ヤキュウジョウ）",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.105962,
+                    35.662129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区宮野木町2150番地4",
+                "category": "スポーツ施設",
+                "name": "千葉市 宮野木スポーツセンター（野球場）",
+                "name_kana": "ミヤノギスポーツセンター（ヤキュウジョウ）",
+                "postcode": "263-0054"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116253,
+                    35.620528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天4丁目1−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 千葉公園スポーツ施設（野球場）",
+                "name_kana": "チバコウエンスポーツシセツ（ヤキュウジョウ）",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147016,
+                    35.549381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区古市場町474−277",
+                "category": "スポーツ施設",
+                "name": "千葉市 古市場公園スポーツ施設（野球場）",
+                "name_kana": "フルイチバコウエンスポーツシセツ（ヤキュウジョウ）",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.16895,
+                    35.556752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野有吉34−1",
+                "category": "スポーツ施設",
+                "name": "千葉市 有吉公園スポーツ施設（野球場）",
+                "name_kana": "アリヨシコウエンスポーツシセツ（ヤキュウジョウ）",
+                "postcode": "266-0034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069038,
+                    35.613648
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜7丁目1−3",
+                "category": "スポーツ施設",
+                "name": "千葉市 稲毛海浜公園スポーツ施設（野球場）",
+                "name_kana": "イナゲカイヒンコウエンスポーツシセツ（ヤキュウジョウ）",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.177611,
+                    35.597233
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町3417",
+                "category": "スポーツ施設",
+                "name": "千葉市 大宮スポーツ広場（野球場）",
+                "name_kana": "オオミヤスポーツヒロバ（ヤキュウジョウ）",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.122646,
+                    35.5757687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川崎町2-18",
+                "category": "スポーツ施設",
+                "name": "フクダ電子スクエア",
+                "name_kana": "フクダデンシスクエア",
+                "postcode": "260-0835"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126251,
+                    35.5713706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川崎町2−18",
+                "category": "スポーツ施設",
+                "name": "フクダ電子ヒルスコート",
+                "name_kana": "フクダデンシヒルスコート",
+                "postcode": "260-0835"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

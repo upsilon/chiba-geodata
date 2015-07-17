@@ -1,0 +1,513 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.175475,
+                    35.558517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3−38−4",
+                "building_name": "アーバンヒルズ１０３・１０４",
+                "category": "その他子育て施設",
+                "name": "千葉市 かまとり・子育てリラックス館",
+                "name_kana": "カマトリ・コソダテリラックスカン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.128998,
+                    35.583226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井1丁目14−38",
+                "building_name": "蘇我保健センター跡施設",
+                "category": "その他子育て施設",
+                "name": "千葉市 蘇我・子育てリラックス館",
+                "name_kana": "ソガコソダテリラックスカン",
+                "postcode": "260-0834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.185264,
+                    35.549979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央8丁目2",
+                "building_name": "おゆみ野ふれあい館１階",
+                "category": "その他子育て施設",
+                "name": "千葉市 おゆみ野中央・子育てリラックス館",
+                "name_kana": "オユミノチュウオウ・コソダテリラックスカン",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093847,
+                    35.622023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区幸町2丁目23−1",
+                "building_name": "マルエツ千葉幸町店２Ｆ",
+                "category": "その他子育て施設",
+                "name": "千葉市 幸町・子育てリラックス館",
+                "name_kana": "サイワイチョウ・コソダテリラックスカン",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071418,
+                    35.626781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目12−1",
+                "building_name": "旧高洲保健センター２階",
+                "category": "その他子育て施設",
+                "name": "千葉市 高洲・子育てリラックス館",
+                "name_kana": "タカス・コソダテリラックスカン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.185611,
+                    35.6250888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台北1丁目29−9",
+                "building_name": "プラスパビル１階Ａ室",
+                "category": "その他子育て施設",
+                "name": "千葉市 千城台・子育てリラックス館",
+                "name_kana": "チシロダイ・コソダテリラックスカン",
+                "postcode": "264-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114376,
+                    35.633089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台1丁目7−10",
+                "building_name": "小ばと子育て支援センター内",
+                "category": "その他子育て施設",
+                "name": "千葉市 てんだい・子育てリラックス館",
+                "name_kana": "テンダイ・コソダテリラックスカン",
+                "postcode": "263-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.041598,
+                    35.67049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷2丁目8−23",
+                "building_name": "アミティ望月１０１号室",
+                "category": "その他子育て施設",
+                "name": "千葉市 幕張本郷・子育てリラックス館",
+                "name_kana": "マクハリホンゴウ・コソダテリラックスカン",
+                "postcode": "262-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095819,
+                    35.688991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花見川3−28−101",
+                "building_name": "花見川団地商店街内",
+                "category": "その他子育て施設",
+                "name": "千葉市 花見川・子育てリラックス館",
+                "name_kana": "ハナミガワ・コソダテリラックスカン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135558,
+                    35.588528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町887−7",
+                "building_name": "フィールドハウス千葉寺参番館１Ｆ",
+                "category": "その他子育て施設",
+                "name": "千葉市 千葉寺・子育てリラックス館",
+                "name_kana": "チバデラ・コソダテリラックスカン",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.148671,
+                    35.6363894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区西都賀3−2−8",
+                "building_name": "M・G・Oビル１階",
+                "category": "その他子育て施設",
+                "name": "都賀駅前・子育てリラックス館",
+                "name_kana": "ツガエキマエ・コソダテリラックスカン",
+                "postcode": "264-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.103566,
+                    35.6411771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区園生町1107−7",
+                "building_name": "生活クラブいなげビレッジ虹と風",
+                "category": "その他子育て施設",
+                "name": "子育てリラックス館・園生出張ひろば",
+                "name_kana": "コソダテリラックスカン・ソンノウシュッチョウヒロバ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.269679,
+                    35.532687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1626−5",
+                "building_name": "明徳土気保育園内",
+                "category": "その他子育て施設",
+                "name": "千葉市 桜ほっとステーション親子（明徳土気保育園内）",
+                "name_kana": "サクラホットステーションオヤコ（メイトクトケホイクエンナイ）",
+                "postcode": "267-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.048121,
+                    35.642904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区打瀬1丁目3−5",
+                "building_name": "打瀬保育園内",
+                "category": "その他子育て施設",
+                "name": "千葉市 子育てひろば・うたせ（打瀬保育園内）",
+                "name_kana": "コソダテヒロバ・ウタセ（ウタセホイクエンナイ）",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18028,
+                    35.548604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央7丁目30",
+                "building_name": "明和輝保育園内",
+                "category": "その他子育て施設",
+                "name": "千葉市 ふれあいひろば・輝（明和輝保育園内）",
+                "name_kana": "フレアイヒロバ・カガヤキ（メイワカガヤキホイクエンナイ）",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134353,
+                    35.647214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台5丁目8−8",
+                "building_name": "みつわ台保育園内",
+                "category": "その他子育て施設",
+                "name": "千葉市 子育てひろば・みつわだい（みつわ台保育園内）",
+                "name_kana": "コソダテヒロバ・ミツワダイ（ミツワダイホイクエンナイ）",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094624,
+                    35.637929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台2丁目10−1",
+                "building_name": "稲毛保育園内",
+                "category": "その他子育て施設",
+                "name": "千葉市 子育てひろば・いなげ（稲毛保育園内）",
+                "name_kana": "コソダテヒロバ・イナゲ（イナゲホイクエンナイ）",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114404,
+                    35.60713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新宿2丁目15−2",
+                "building_name": "新宿保育所内",
+                "category": "その他子育て施設",
+                "name": "千葉市 にこにこルーム（新宿保育所内）",
+                "name_kana": "ニコニコルーム（シンジュクホイクショナイ）",
+                "postcode": "260-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069557,
+                    35.646288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町3丁目331−4",
+                "building_name": "ちどり保育園内",
+                "category": "その他子育て施設",
+                "name": "千葉市 子育てひろば・ちどり（ちどり保育園内）",
+                "name_kana": "コソダテヒロバ・チドリ（チドリホイクエンナイ）",
+                "postcode": "262-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.122645,
+                    35.607408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央4丁目5−1",
+                "building_name": "Ｑｉｂａｌｌ（きぼーる）６階",
+                "category": "その他子育て施設",
+                "name": "千葉市 子育て支援館（きぼーる）",
+                "name_kana": "チバシコソダテシエンカン（キボール）",
+                "postcode": "260-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.05893,
+                    35.630931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺4丁目15−3",
+                "category": "その他子育て施設",
+                "name": "千葉市 おおた小児科「ミルキー」",
+                "name_kana": "オオタショウニカ「ミルキー」",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.17827,
+                    35.551097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央7丁目9−2",
+                "category": "その他子育て施設",
+                "name": "千葉市 まなこどもクリニック「ポピンズルーム」",
+                "name_kana": "マナコドモクリニック「ポピンズルーム」",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.175945,
+                    35.56263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目24−3",
+                "category": "その他子育て施設",
+                "name": "千葉市 さとう小児科医院「バンビ−ノ」",
+                "name_kana": "サトウショウニカイイン「バンビ−ノ」",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.198435,
+                    35.62011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台東3丁目31−2",
+                "category": "その他子育て施設",
+                "name": "千葉市 清水小児科「かごめかごめ」",
+                "name_kana": "シミズショウニカ「カゴメカゴメ」",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.039643,
+                    35.670245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷1丁目14−10",
+                "building_name": "幸栄パレス３０１",
+                "category": "その他子育て施設",
+                "name": "千葉市 岩田こどもクリニック「うさぎのあな」",
+                "name_kana": "イワタコドモクリニック「ウサギノアナ」",
+                "postcode": "262-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120599,
+                    35.602706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区長洲1丁目1−10",
+                "building_name": "ＫＣＳビル４Ｆ",
+                "category": "その他子育て施設",
+                "name": "千葉市 るみえ内科「ゆりかご園」",
+                "name_kana": "ルミエナイカ「ユリカゴエン」",
+                "postcode": "260-0854"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130664,
+                    35.5945087
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町310−2",
+                "building_name": "秋元第１ビル１０１",
+                "category": "その他子育て施設",
+                "name": "千葉市 中村内科クリニック「えんじぇるん」",
+                "name_kana": "ナカムラナイカクリニック「エンジェルン」",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095027,
+                    35.6387555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台6−19−19",
+                "building_name": "Myビル３F",
+                "category": "その他子育て施設",
+                "name": "千葉市 マリヤ・クリニック「ノア」",
+                "name_kana": "マリヤ・クリニック「ノア」",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

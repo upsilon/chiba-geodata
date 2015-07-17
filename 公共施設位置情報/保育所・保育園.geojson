@@ -1,0 +1,47 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096358,
+                    35.6414207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台5−3−2",
+                "category": "保育所・保育園",
+                "name": "稲毛ひだまり保育園",
+                "name_kana": "イナゲヒダマリホイクエン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.092505,
+                    35.6353097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛東3−12−2",
+                "category": "保育所・保育園",
+                "name": "ココファン・ナーサリー稲毛",
+                "name_kana": "ココファン・ナーサリーイナゲ",
+                "postcode": "263-0031"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

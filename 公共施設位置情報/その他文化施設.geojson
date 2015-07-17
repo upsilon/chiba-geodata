@@ -1,0 +1,458 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.083235,
+                    35.634236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛1丁目8−35",
+                "category": "その他文化施設",
+                "name": "千葉市民ギャラリー・いなげ",
+                "name_kana": "シミンギャラリー・イナゲ",
+                "postcode": "263-0034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.081472,
+                    35.636228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛1丁目16−12",
+                "category": "その他文化施設",
+                "name": "千葉市 ゆかりの家・いなげ",
+                "name_kana": "チバシユカリノイエ・イナゲ",
+                "postcode": "263-0034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134666,
+                    35.594656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町1208−2",
+                "building_name": "千葉市ハーモニープラザ２階",
+                "category": "その他文化施設",
+                "name": "千葉市 社会福祉研修センター",
+                "name_kana": "チバシシャカイフクシケンシュウセンター",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134666,
+                    35.594656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町1208−2",
+                "building_name": "千葉市ハーモニープラザ（事務室は、２階にあります。）",
+                "category": "その他文化施設",
+                "name": "千葉市 男女共同参画センター",
+                "name_kana": "チバシダンジョキョウドウサンカクセンター",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.186357,
+                    35.621799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台西2丁目1−1",
+                "category": "その他文化施設",
+                "name": "千葉市 若葉文化ホール",
+                "name_kana": "ワカバブンカホール",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121948,
+                    35.609718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央2丁目5−1",
+                "building_name": "千葉中央ツインビル２号館",
+                "category": "その他文化施設",
+                "name": "千葉市 文化センター",
+                "name_kana": "ブンカセンター",
+                "postcode": "260-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120276,
+                    35.615425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区要町1−1",
+                "category": "その他文化施設",
+                "name": "千葉市民会館",
+                "name_kana": "シミンカイカン",
+                "postcode": "260-0017"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.062628,
+                    35.641097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂5丁目15−2",
+                "category": "その他文化施設",
+                "name": "千葉市 美浜文化ホール",
+                "name_kana": "ミハマブンカホール",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.117371,
+                    35.613185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区富士見1丁目3−2",
+                "category": "その他文化施設",
+                "name": "千葉市 京葉銀行文化プラザ",
+                "name_kana": "ケイヨウギンコウブンカプラザ",
+                "postcode": "260-0015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138547,
+                    35.579056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区白旗1丁目3−16",
+                "category": "その他文化施設",
+                "name": "千葉市 南部青少年センター",
+                "name_kana": "チバシナンブセイショウネンセンター",
+                "postcode": "260-0841"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130294,
+                    35.572424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区蘇我2丁目3−33",
+                "category": "その他文化施設",
+                "name": "千葉市 南部児童文化センター",
+                "name_kana": "ナンブジドウブンカセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12271,
+                    35.60741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央4−5−1",
+                "building_name": "きぼーる内　７〜１０階",
+                "category": "その他文化施設",
+                "name": "千葉市 科学館",
+                "name_kana": "チバシカガクカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.243123,
+                    35.606592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区富田町711番地1",
+                "category": "その他文化施設",
+                "name": "千葉市 富田都市農業交流センター",
+                "name_kana": "トミタトシノウギョウコウリュウセンター",
+                "postcode": "265-0041"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.122529,
+                    35.607378
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央4丁目5番1号",
+                "building_name": "Ｑｉｂａｌｌ（きぼーる）１３〜１５階",
+                "category": "その他文化施設",
+                "name": "千葉市 ビジネス支援センター（きぼーる）",
+                "name_kana": "チバシビジネスシエンセンター（キボール）",
+                "postcode": "260-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.065,
+                    35.61797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜7-2-4",
+                "category": "その他文化施設",
+                "name": "千葉市 三陽メディアフラワーミュージアム",
+                "name_kana": "サンヨウメディアフラワーミュージアム",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11427,
+                    35.618159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天3丁目7−7",
+                "category": "その他文化施設",
+                "name": "千葉市 生涯学習センター",
+                "name_kana": "チバシショウガイガクシュウセンター",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.151203,
+                    35.558067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南生実町1210",
+                "category": "その他文化施設",
+                "name": "千葉市立埋蔵文化財調査センター",
+                "name_kana": "チバシリツマイゾウブンカザイチョウサセンター",
+                "postcode": "260-0814"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.165328,
+                    35.6237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区桜木8丁目33番1号",
+                "category": "その他文化施設",
+                "name": "千葉市立加曽利貝塚博物館",
+                "name_kana": "チバシリツカソリカイヅカハクブツカン",
+                "postcode": "264-0028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.127202,
+                    35.604554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区亥鼻1丁目6−1",
+                "category": "その他文化施設",
+                "name": "千葉市立郷土博物館",
+                "name_kana": "チバシリツキョウドハクブツカン",
+                "postcode": "260-0856"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134166,
+                    35.558611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区浜野町1290−3",
+                "category": "その他文化施設",
+                "name": "千葉市 旧生浜町役場庁舎",
+                "name_kana": "キュウオイハママチヤクバチョウシャ",
+                "postcode": "260-0824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.124589,
+                    35.608998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央3丁目10−8",
+                "category": "その他文化施設",
+                "name": "千葉市 美術館",
+                "name_kana": "ビジュツカン",
+                "postcode": "260-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.06082,
+                    35.6198285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜7-2-3",
+                "category": "その他文化施設",
+                "name": "稲毛記念館",
+                "name_kana": "イナゲキネンカン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.060352,
+                    35.6199244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜7-2-3",
+                "category": "その他文化施設",
+                "name": "海星庵",
+                "name_kana": "カイセイアン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058904,
+                    35.6206964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜7-2-1",
+                "category": "その他文化施設",
+                "name": "野外音楽堂",
+                "name_kana": "ヤガイオンガクドウ",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059992,
+                    35.6208969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜7-2-2",
+                "category": "その他文化施設",
+                "name": "稲毛民間航空記念館",
+                "name_kana": "イナゲミンカンコウクウキネンカン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.151612,
+                    35.6018043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区星久喜町278番地",
+                "category": "その他文化施設",
+                "name": "千葉市 都市緑化植物園",
+                "name_kana": "トシリョクカショクブツエン",
+                "postcode": "260-0808"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

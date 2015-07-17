@@ -1,0 +1,81 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1670344,
+                    35.59767935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区大宮町1066−1",
+                "category": "特別支援学校",
+                "name": "市立養護学校",
+                "name_kana": "イチリツヨウゴガッコウ",
+                "postcode": "264-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1096822,
+                    35.63138177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区轟町3丁目6−25",
+                "category": "特別支援学校",
+                "name": "市立第二養護学校",
+                "name_kana": "イチリツダイニヨウゴガッコウ",
+                "postcode": "263-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1316805,
+                    35.66886626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区長沼原町312",
+                "category": "特別支援学校",
+                "name": "千葉大学附属特別支援学校",
+                "name_kana": "チバダイガクフゾクトクベツシエンガッコウ",
+                "postcode": "263-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0615371,
+                    35.64399257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂5丁目18−1",
+                "category": "特別支援学校",
+                "name": "市立高等特別支援学校",
+                "name_kana": "イチリツコウトウトクベツシエンガッコウ",
+                "postcode": "261-0111"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

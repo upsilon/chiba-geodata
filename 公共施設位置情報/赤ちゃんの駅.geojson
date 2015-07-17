@@ -1,0 +1,3417 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.2135977,
+                    35.54625726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区誉田町2−24",
+                "category": "赤ちゃんの駅",
+                "name": "ホワイト急便　誉田駅前店",
+                "name_kana": "ホワイトキュウビンホンダエキマエテン",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114778,
+                    35.618746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区弁天3-8-10",
+                "category": "赤ちゃんの駅",
+                "name": "弁天保育所",
+                "name_kana": "ベンテンホイクショ",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.077765,
+                    35.629978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高洲1-15-2",
+                "category": "赤ちゃんの駅",
+                "name": "まどか保育園",
+                "name_kana": "マドカホイクエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.179747,
+                    35.557834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野4-30",
+                "category": "赤ちゃんの駅",
+                "name": "かまとり保育園",
+                "name_kana": "カマトリホイクエン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.174899,
+                    35.562462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野2-7",
+                "category": "赤ちゃんの駅",
+                "name": "おゆみ野保育園",
+                "name_kana": "オユミノホイクエン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.227761,
+                    35.620381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区更科町2073-27",
+                "category": "赤ちゃんの駅",
+                "name": "更科保育所",
+                "name_kana": "サラシナホイクショ",
+                "postcode": "265-0073"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099586,
+                    35.615422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区幸町1-17-6",
+                "category": "赤ちゃんの駅",
+                "name": "幸第三保育所",
+                "name_kana": "サイワイダイサンホイクショ",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.077391,
+                    35.622127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高洲2-3-19",
+                "category": "赤ちゃんの駅",
+                "name": "高洲第二保育所",
+                "name_kana": "タカスダイニホイクショ",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.100702,
+                    35.607805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区中央港1-24-14",
+                "building_name": "ＳＥＡＳＣＡＰＥ千葉みなと1階",
+                "category": "赤ちゃんの駅",
+                "name": "はまかぜ保育園",
+                "name_kana": "ハマカゼホイクエン",
+                "postcode": "260-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135558,
+                    35.588528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区千葉寺町887-7",
+                "category": "赤ちゃんの駅",
+                "name": "千葉寺・子育てリラックス館",
+                "name_kana": "チバデラ・コソダテリラックスカン",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125539,
+                    35.614253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区院内2-5-6",
+                "category": "赤ちゃんの駅",
+                "name": "院内保育園",
+                "name_kana": "インナイホイクエン",
+                "postcode": "260-0018"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114376,
+                    35.633089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区天台1-7-10",
+                "building_name": "小ばと子育て支援センター内",
+                "category": "赤ちゃんの駅",
+                "name": "てんだい・子育てリラックス館",
+                "name_kana": "テンダイ・コソダテリラックスカン",
+                "postcode": "263-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.185762,
+                    35.624939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区千城台北1-29-9",
+                "building_name": "プラスパビル1階A室",
+                "category": "赤ちゃんの駅",
+                "name": "千城台・子育てリラックス館",
+                "name_kana": "コソダテヒロバ・ミツワダイ（ミツワダイホイクエンナイ）",
+                "postcode": "264-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071418,
+                    35.626781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高洲3-12-1",
+                "building_name": "旧高洲保健センター2階",
+                "category": "赤ちゃんの駅",
+                "name": "高洲・子育てリラックス館",
+                "name_kana": "タカス・コソダテリラックスカン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.037755,
+                    35.665622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区幕張西2-7-2",
+                "category": "赤ちゃんの駅",
+                "name": "幕張海浜保育園",
+                "name_kana": "マクハリカイヒンホイクエン",
+                "postcode": "261-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.064494,
+                    35.638405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区真砂3-15-14",
+                "category": "赤ちゃんの駅",
+                "name": "チューリップ保育園",
+                "name_kana": "チューリップホイクエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.078889,
+                    35.624585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高洲2-2-21",
+                "category": "赤ちゃんの駅",
+                "name": "高洲第一保育所",
+                "name_kana": "タカスダイイチホイクショ",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144106,
+                    35.643724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区都賀の台3-6-1",
+                "category": "赤ちゃんの駅",
+                "name": "都賀の台保育所",
+                "name_kana": "ツガノダイホイクショ",
+                "postcode": "264-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093373,
+                    35.621467
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区幸町2-12-9",
+                "category": "赤ちゃんの駅",
+                "name": "幸第一保育所",
+                "name_kana": "サイワイダイイイチホイクショ",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146845,
+                    35.598149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区星久喜町1063-6",
+                "category": "赤ちゃんの駅",
+                "name": "星久喜保育所",
+                "name_kana": "ホシクキホイクショ",
+                "postcode": "260-0808"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.200075,
+                    35.618624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区千城台東4-33-1",
+                "category": "赤ちゃんの駅",
+                "name": "千城台東第二保育所",
+                "name_kana": "チシロダイヒガシダイニホイクショ",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114544,
+                    35.631019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区天台1-10-6",
+                "category": "赤ちゃんの駅",
+                "name": "天台保育所",
+                "name_kana": "テンダイホイクショ",
+                "postcode": "263-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.150238,
+                    35.660843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小深町261-7",
+                "category": "赤ちゃんの駅",
+                "name": "小深保育所",
+                "name_kana": "コブケホイクショ",
+                "postcode": "263-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.087358,
+                    35.651858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区西小中台5-20",
+                "category": "赤ちゃんの駅",
+                "name": "西小中台保育所",
+                "name_kana": "ニシコナカダイホイクショ",
+                "postcode": "262-0016"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.171154,
+                    35.62861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区小倉台4-18-2",
+                "category": "赤ちゃんの駅",
+                "name": "小倉台保育所",
+                "name_kana": "オグラダイホイクショ",
+                "postcode": "264-0006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093643,
+                    35.62684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区黒砂2-4-24",
+                "category": "赤ちゃんの駅",
+                "name": "黒砂保育所",
+                "name_kana": "クロスナホイクショ",
+                "postcode": "263-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.180578,
+                    35.612343
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区坂月町294-1",
+                "category": "赤ちゃんの駅",
+                "name": "坂月保育所",
+                "name_kana": "サカツキホイクショ",
+                "postcode": "264-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.110186,
+                    35.624765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区轟町1-12-13",
+                "category": "赤ちゃんの駅",
+                "name": "轟保育所",
+                "name_kana": "トドロキホイクショ",
+                "postcode": "263-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116885,
+                    35.601625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区神明町27-6",
+                "category": "赤ちゃんの駅",
+                "name": "神明保育所",
+                "name_kana": "シンメイホイクショ",
+                "postcode": "260-0022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121798,
+                    35.595451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区寒川町2-119",
+                "category": "赤ちゃんの駅",
+                "name": "寒川保育所",
+                "name_kana": "サムガワホイクショ",
+                "postcode": "260-0832"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120086,
+                    35.690428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区こてはし台5-12",
+                "category": "赤ちゃんの駅",
+                "name": "こてはし台保育所",
+                "name_kana": "コテハシダイホイクショ",
+                "postcode": "262-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.205418,
+                    35.54637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区誉田町2-298",
+                "category": "赤ちゃんの駅",
+                "name": "誉田保育所",
+                "name_kana": "ホンダホイクショ",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101737,
+                    35.652352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区園生町238-56",
+                "category": "赤ちゃんの駅",
+                "name": "宮野木保育所",
+                "name_kana": "ミヤノギホイクショ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094027,
+                    35.687579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花見川2‐41‐101",
+                "category": "赤ちゃんの駅",
+                "name": "花見川第二保育所",
+                "name_kana": "ハナミガワダイニホイクショ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099076,
+                    35.695494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花見川4-2",
+                "category": "赤ちゃんの駅",
+                "name": "花見川第三保育所",
+                "name_kana": "ハナミガワダイサンホイクショ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.124743,
+                    35.627847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区作草部町698-3",
+                "category": "赤ちゃんの駅",
+                "name": "作草部保育園",
+                "name_kana": "サクサベホイクエン",
+                "postcode": "263-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.05789,
+                    35.661598
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張町4-636",
+                "category": "赤ちゃんの駅",
+                "name": "幕張第二保育所",
+                "name_kana": "マクハリダイニホイクショ",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.129458,
+                    35.559411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区浜野町1346-5",
+                "category": "赤ちゃんの駅",
+                "name": "浜野保育所",
+                "name_kana": "ハマノホイクショ",
+                "postcode": "260-0824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.090279,
+                    35.644763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台8-21-1",
+                "category": "赤ちゃんの駅",
+                "name": "南小中台保育園",
+                "name_kana": "ミナミコナカダイホイクエン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.143459,
+                    35.631524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区都賀1-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "旭ヶ丘保育園",
+                "name_kana": "アサヒガオカホイクエン",
+                "postcode": "264-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.053153,
+                    35.654864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張町5-417-260",
+                "category": "赤ちゃんの駅",
+                "name": "幕張第一保育所",
+                "name_kana": "マクハリダイイチホイクショ",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.092688,
+                    35.666491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区さつきが丘2-32-1",
+                "category": "赤ちゃんの駅",
+                "name": "さつきが丘第一保育所",
+                "name_kana": "サツキガオカダイイチホイクショ",
+                "postcode": "262-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.06842,
+                    35.640852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区真砂2-22-13",
+                "category": "赤ちゃんの駅",
+                "name": "真砂第一保育所",
+                "name_kana": "マサゴダイイチホイクショ",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.156525,
+                    35.617694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区桜木1-40-1",
+                "category": "赤ちゃんの駅",
+                "name": "桜木保育所",
+                "name_kana": "サクラギホイクショ",
+                "postcode": "264-0022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182245,
+                    35.573631
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区平山町138",
+                "category": "赤ちゃんの駅",
+                "name": "平山保育所",
+                "name_kana": "ヒラヤマホイクショ",
+                "postcode": "266-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.181449,
+                    35.618563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区千城台西3-8-1",
+                "category": "赤ちゃんの駅",
+                "name": "千城台西保育所",
+                "name_kana": "チシロダイニシホイクショ",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.193484,
+                    35.619224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区千城台東2-8-1",
+                "category": "赤ちゃんの駅",
+                "name": "千城台東第一保育所",
+                "name_kana": "チシロダイヒガシダイイチホイクショ",
+                "postcode": "264-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.118254,
+                    35.635684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区千草台1-1-27",
+                "category": "赤ちゃんの駅",
+                "name": "千草台保育所",
+                "name_kana": "チグサダイホイクショ",
+                "postcode": "263-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.068274,
+                    35.663269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区瑞穂1-1",
+                "building_name": "花見川保健福祉センター",
+                "category": "赤ちゃんの駅",
+                "name": "花見川保健福祉センター",
+                "name_kana": "ハナミガワホケンフクシセンター",
+                "postcode": "262-8510"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.269679,
+                    35.532687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区土気町1626-5",
+                "category": "赤ちゃんの駅",
+                "name": "桜ほっとステーション親子/明徳土気保育園",
+                "name_kana": "サクラホットステーションオヤコ/メイトクトケホイクエン",
+                "postcode": "267-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.06905,
+                    35.662859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区瑞穂1-1",
+                "category": "赤ちゃんの駅",
+                "name": "花見川区役所",
+                "name_kana": "チバシハナミガワクヤクショ",
+                "postcode": "262-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.107163,
+                    35.636195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区穴川4-12-1",
+                "category": "赤ちゃんの駅",
+                "name": "稲毛区役所",
+                "name_kana": "チバシイナゲクヤクショ",
+                "postcode": "263-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.063037,
+                    35.640451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区真砂5-15-1",
+                "category": "赤ちゃんの駅",
+                "name": "美浜区役所",
+                "name_kana": "チバシミハマクヤクショ",
+                "postcode": "261-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106375,
+                    35.607302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区千葉港1-1",
+                "category": "赤ちゃんの駅",
+                "name": "千葉市役所（本庁舎）",
+                "name_kana": "チバシヤクショ",
+                "postcode": "260-8722"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116086,
+                    35.65009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区あやめ台1-15-101",
+                "category": "赤ちゃんの駅",
+                "name": "あやめ台第一保育所",
+                "name_kana": "アヤメダイダイイチホイクショ",
+                "postcode": "263-0052"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.111568,
+                    35.648385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区あやめ台3-19",
+                "category": "赤ちゃんの駅",
+                "name": "あやめ台第二保育所",
+                "name_kana": "アヤメダイダイニホイクショ",
+                "postcode": "263-0052"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176031,
+                    35.566561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区鎌取町226-1",
+                "category": "赤ちゃんの駅",
+                "name": "緑保健福祉センター",
+                "name_kana": "ミドリホケンフクシセンター",
+                "postcode": "266-8550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097048,
+                    35.647888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台9-30-2",
+                "category": "赤ちゃんの駅",
+                "name": "小中台保育所",
+                "name_kana": "コナカダイホイクショ",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.145743,
+                    35.560827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区生実町1940-1",
+                "category": "赤ちゃんの駅",
+                "name": "生実保育所",
+                "name_kana": "オユミホイクショ",
+                "postcode": "260-0813"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.123969,
+                    35.652461
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区園生町1325-1",
+                "category": "赤ちゃんの駅",
+                "name": "園生保育所",
+                "name_kana": "ソンノウホイクショ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075972,
+                    35.637262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区稲毛海岸5-6-1",
+                "category": "赤ちゃんの駅",
+                "name": "稲毛海岸保育所",
+                "name_kana": "イナゲカイガンホイクショ",
+                "postcode": "261-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.066371,
+                    35.629828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区磯辺1-3-1",
+                "category": "赤ちゃんの駅",
+                "name": "磯辺保育所",
+                "name_kana": "イソベホイクショ",
+                "postcode": "261-0012"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095359,
+                    35.690728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花見川3-23-101",
+                "category": "赤ちゃんの駅",
+                "name": "花見川第一保育所",
+                "name_kana": "ハナミガワダイイチホイクショ",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.141871,
+                    35.612193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区都町2-26-5",
+                "category": "赤ちゃんの駅",
+                "name": "都保育所",
+                "name_kana": "ミヤコホイクショ",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.140823,
+                    35.578366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区白旗2-6-11",
+                "category": "赤ちゃんの駅",
+                "name": "白旗保育所",
+                "name_kana": "シラハタホイクショ",
+                "postcode": "260-0841"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12797,
+                    35.602716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区亥鼻2-5-6",
+                "category": "赤ちゃんの駅",
+                "name": "亥鼻保育所",
+                "name_kana": "イノハナホイクショ",
+                "postcode": "260-0856"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.229532,
+                    35.583789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区野呂町622",
+                "category": "赤ちゃんの駅",
+                "name": "野呂保育所",
+                "name_kana": "ノロホイクショ",
+                "postcode": "265-0053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.048196,
+                    35.656543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張町3-7730-5",
+                "category": "赤ちゃんの駅",
+                "name": "幕張第三保育所",
+                "name_kana": "マクハリダイサンホイクショ",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095399,
+                    35.623298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区緑町2-22-1",
+                "category": "赤ちゃんの駅",
+                "name": "緑町保育所",
+                "name_kana": "ミドリマチホイクショ",
+                "postcode": "263-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095819,
+                    35.688991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花見川3-28-101",
+                "building_name": "花見川団地商店街内",
+                "category": "赤ちゃんの駅",
+                "name": "花見川・子育てリラックス館",
+                "name_kana": "ハナミガワ・コソダテリラックスカン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1644,
+                    35.583299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区川戸町424-1",
+                "category": "赤ちゃんの駅",
+                "name": "川戸保育所",
+                "name_kana": "カワドホイクショ",
+                "postcode": "260-0802"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130983,
+                    35.572706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区蘇我2-3-18",
+                "category": "赤ちゃんの駅",
+                "name": "蘇我保育所",
+                "name_kana": "ソガホイクショ",
+                "postcode": "260-0822"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.143516,
+                    35.580073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区大森町268",
+                "category": "赤ちゃんの駅",
+                "name": "大森保育所",
+                "name_kana": "オオモリホイクショ",
+                "postcode": "260-0811"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.07222,
+                    35.674677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区長作町739-3",
+                "category": "赤ちゃんの駅",
+                "name": "長作保育所",
+                "name_kana": "ナガサクホイクショ",
+                "postcode": "262-0044"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.154505,
+                    35.633302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区貝塚2-19-1",
+                "category": "赤ちゃんの駅",
+                "name": "若葉保健福祉センター",
+                "name_kana": "ワカバホケンフクシセンター",
+                "postcode": "264-8550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096397,
+                    35.665218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区さつきが丘1-32-1",
+                "category": "赤ちゃんの駅",
+                "name": "さつきが丘第二保育所",
+                "name_kana": "サツキガオカダイニホイクショ",
+                "postcode": "262-0014"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075625,
+                    35.627169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高洲3-2-14",
+                "category": "赤ちゃんの駅",
+                "name": "高洲第三保育所",
+                "name_kana": "タカスダイサンホイクショ",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074928,
+                    35.619514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜1-4-3",
+                "category": "赤ちゃんの駅",
+                "name": "高浜第一保育所",
+                "name_kana": "タカハマダイイチホイクショ",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176148,
+                    35.560454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野3-15-3",
+                "category": "赤ちゃんの駅",
+                "name": "緑区役所",
+                "name_kana": "チバシミドリクヤクショ",
+                "postcode": "266-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.108154,
+                    35.606737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区千葉港2-1",
+                "building_name": "千葉中央コミュニティセンター",
+                "category": "赤ちゃんの駅",
+                "name": "千葉市役所（千葉中央コミュニティセンター）",
+                "name_kana": "チバチュウオウコミュニティセンター",
+                "postcode": "260-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.128998,
+                    35.583226
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区今井1-14-38",
+                "category": "赤ちゃんの駅",
+                "name": "蘇我・子育てリラックス館",
+                "name_kana": "ソガ・コソダテリラックスカン",
+                "postcode": "260-0834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.124321,
+                    35.670103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区長沼原町242-2",
+                "category": "赤ちゃんの駅",
+                "name": "長沼原保育所",
+                "name_kana": "ナガヌマハラホイクショ",
+                "postcode": "263-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.195112,
+                    35.59778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区多部田町754-39",
+                "category": "赤ちゃんの駅",
+                "name": "多部田保育所",
+                "name_kana": "タベタホイクショ",
+                "postcode": "265-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116026,
+                    35.607053
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "新宿2-5-13",
+                "building_name": "アスセナスビル2階",
+                "category": "赤ちゃんの駅",
+                "name": "ひなたぼっこ保育園",
+                "name_kana": "ヒナタボッコホイクエン",
+                "postcode": "260-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093804,
+                    35.622002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "幸町2-23-1",
+                "building_name": "マルエツ千葉幸町店2F",
+                "category": "赤ちゃんの駅",
+                "name": "幸町・子育てリラックス館",
+                "name_kana": "サイワイチョウ・コソダテリラックスカン",
+                "postcode": "261-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071384,
+                    35.631885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "高洲4-5-9",
+                "category": "赤ちゃんの駅",
+                "name": "若梅保育園",
+                "name_kana": "ワカウメホイクエン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.048121,
+                    35.642904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "打瀬1-3-5",
+                "category": "赤ちゃんの駅",
+                "name": "子育てひろば・うたせ/打瀬保育園",
+                "name_kana": "コソダテヒロバ・ウタセ/ウタセホイクエン",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131227,
+                    35.59022
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "末広4-17-6",
+                "category": "赤ちゃんの駅",
+                "name": "千葉寺保育園（第一分園）",
+                "name_kana": "チバデラホイクエンダイイチブンエン",
+                "postcode": "260-0843"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.175319,
+                    35.558528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "おゆみ野3-38-4",
+                "building_name": "アーバンヒルズ103・104",
+                "category": "赤ちゃんの駅",
+                "name": "かまとり・子育てリラックス館",
+                "name_kana": "カマトリ・コソダテリラックスカン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.185333,
+                    35.549804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "おゆみ野中央8-2",
+                "building_name": "おゆみ野ふれあい館1階",
+                "category": "赤ちゃんの駅",
+                "name": "おゆみ野中央・子育てリラックス館",
+                "name_kana": "オユミノチュウオウ・コソダテリラックスカン",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.174538,
+                    35.547308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "おゆみ野南5-29-1",
+                "category": "赤ちゃんの駅",
+                "name": "真生保育園",
+                "name_kana": "シンセイホイクエン",
+                "postcode": "266-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.165914,
+                    35.546866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "刈田子町308-10",
+                "category": "赤ちゃんの駅",
+                "name": "ふたば保育園",
+                "name_kana": "フタバホイクエン",
+                "postcode": "266-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.174503,
+                    35.642236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若松町331",
+                "category": "赤ちゃんの駅",
+                "name": "若竹保育園",
+                "name_kana": "ワカタケホイクエン",
+                "postcode": "264-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146821,
+                    35.646396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若松町531-197",
+                "category": "赤ちゃんの駅",
+                "name": "千葉聖心保育園",
+                "name_kana": "チバセイシンホイクエン",
+                "postcode": "264-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135784,
+                    35.639561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "みつわ台3-12-1",
+                "category": "赤ちゃんの駅",
+                "name": "たいよう保育園",
+                "name_kana": "タイヨウホイクエン",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114404,
+                    35.60713
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区新宿2-15-2",
+                "category": "赤ちゃんの駅",
+                "name": "にこにこルーム/新宿保育所",
+                "name_kana": "ニコニコルーム/シンジュクホイクショ",
+                "postcode": "260-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094624,
+                    35.637929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台2-10-1",
+                "category": "赤ちゃんの駅",
+                "name": "子育てひろば・いなげ/稲毛保育園",
+                "name_kana": "コソダテヒロバイナゲ/イナゲホイクエン/",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.123771,
+                    35.607538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区中央4-5-1",
+                "building_name": "Ｑｉｂａｌｌ（きぼーる）11階中央保健福祉センター",
+                "category": "赤ちゃんの駅",
+                "name": "中央保健福祉センター（きぼーる）",
+                "name_kana": "チュウオウホケンフクシセンター（キボール）",
+                "postcode": "260-8511"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.155812,
+                    35.633978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区桜木北2-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "若葉区役所",
+                "name_kana": "チバシワカバクヤクショ",
+                "postcode": "264-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.123237,
+                    35.607323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区中央4-5-1",
+                "building_name": "Ｑｉｂａｌｌ（きぼーる）内3〜5階",
+                "category": "赤ちゃんの駅",
+                "name": "千葉市子ども交流館（きぼーる）",
+                "name_kana": "チバシコドモコウリュウカン（キボール）",
+                "postcode": "260-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.122633,
+                    35.607418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区中央4-5-1",
+                "building_name": "Ｑｉｂａｌｌ（きぼーる）6階",
+                "category": "赤ちゃんの駅",
+                "name": "千葉市子育て支援館（きぼーる）",
+                "name_kana": "チバシコソダテシエンカン（キボール）",
+                "postcode": "260-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.124571,
+                    35.609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区中央3-10-8",
+                "category": "赤ちゃんの駅",
+                "name": "中央区役所",
+                "name_kana": "チバシチュウオウクヤクショ",
+                "postcode": "260-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069557,
+                    35.646288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区検見川町3-331-4",
+                "category": "赤ちゃんの駅",
+                "name": "子育てひろば・ちどり/ちどり保育園",
+                "name_kana": "コソダテヒロバチドリ/チドリホイクエン",
+                "postcode": "262-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18028,
+                    35.548604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野中央7‐30",
+                "category": "赤ちゃんの駅",
+                "name": "ふれあいひろば・輝/明和輝保育園",
+                "name_kana": "フレアイヒロバ・カガヤキ/メイワカガヤキホイクエン",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106146,
+                    35.635576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区穴川4-12-4",
+                "category": "赤ちゃんの駅",
+                "name": "稲毛保健福祉センター",
+                "name_kana": "イナゲホケンフクシセンター",
+                "postcode": "263-8550"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134353,
+                    35.647214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区みつわ台5-8-8",
+                "category": "赤ちゃんの駅",
+                "name": "子育てひろば・みつわだい/みつわ台保育園",
+                "name_kana": "コソダテヒロバ・ミツワダイ/ミツワダイホイクエン",
+                "postcode": "264-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.062532,
+                    35.641084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区真砂5-15-2",
+                "category": "赤ちゃんの駅",
+                "name": "美浜保健福祉センター",
+                "name_kana": "ミハマホケンフクシセンター",
+                "postcode": "261-8581"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131658,
+                    35.551369
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区村田町668-2",
+                "category": "赤ちゃんの駅",
+                "name": "明徳浜野駅保育園",
+                "name_kana": "メイトクハマノエキホイクエン",
+                "postcode": "260-0825"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069974,
+                    35.622423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "高浜4-4-1",
+                "category": "赤ちゃんの駅",
+                "name": "なぎさ保育園",
+                "name_kana": "ナギサホイクエン",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109137,
+                    35.602936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区問屋町13-5",
+                "category": "赤ちゃんの駅",
+                "name": "いろは保育園",
+                "name_kana": "イロハホイクエン",
+                "postcode": "260-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102659,
+                    35.605355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区中央港1-22-7",
+                "category": "赤ちゃんの駅",
+                "name": "千葉みなとのぞみ保育園",
+                "name_kana": "チバミナトノゾミホイクエン",
+                "postcode": "260-0024"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.061348,
+                    35.638708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区真砂4-1-10",
+                "building_name": "ショッピングセンターＰＩＡ　5階",
+                "category": "赤ちゃんの駅",
+                "name": "アップルナースリー検見川浜保育園",
+                "name_kana": "アップルナースリーケミガワハマホイクエン",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.055736,
+                    35.660376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張町4-608-1",
+                "category": "赤ちゃんの駅",
+                "name": "幕張いもっこ保育園",
+                "name_kana": "マクハリイモッコホイクエン",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.041959,
+                    35.651602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中瀬1-3",
+                "building_name": "幕張テクノガーデン東中央館ＣＤ棟1階",
+                "category": "赤ちゃんの駅",
+                "name": "アスク海浜幕張保育園",
+                "name_kana": "アスクマクハリカイヒンホイクエン",
+                "postcode": "261-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093566,
+                    35.640153
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台6-12-16",
+                "category": "赤ちゃんの駅",
+                "name": "稲毛すきっぷ保育園",
+                "name_kana": "イナゲスキップホイクエン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.126886,
+                    35.59559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区末広2-11-24",
+                "category": "赤ちゃんの駅",
+                "name": "武道館",
+                "name_kana": "ブドウカン",
+                "postcode": "260-0843"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113775,
+                    35.606858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区新宿2-16-14",
+                "category": "赤ちゃんの駅",
+                "name": "新宿公民館",
+                "name_kana": "シンジュクコウミンカン",
+                "postcode": "260-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.129469,
+                    35.582837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区今井1-13-35",
+                "category": "赤ちゃんの駅",
+                "name": "蘇我コミュニティセンター",
+                "name_kana": "ソガコミュニティセンター",
+                "postcode": "260-0834"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.134678,
+                    35.594651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉寺町1208−2",
+                "category": "赤ちゃんの駅",
+                "name": "千葉市ハーモニープラザ",
+                "name_kana": "チバシハーモニープラザ",
+                "postcode": "260-0844"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11427,
+                    35.618159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区弁天3-7-7",
+                "category": "赤ちゃんの駅",
+                "name": "中央図書館",
+                "name_kana": "チュウオウトショカン",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.136829,
+                    35.580617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区宮崎2-5-22",
+                "category": "赤ちゃんの駅",
+                "name": "宮崎公民館",
+                "name_kana": "ミヤザキコウミンカン",
+                "postcode": "260-0806"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113773,
+                    35.620148
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区弁天3-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "千葉公園スポーツ施設",
+                "name_kana": "チバコウエンスポーツシセツ",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120002,
+                    35.689224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区こてはし台5-9-7",
+                "category": "赤ちゃんの駅",
+                "name": "花見川図書館",
+                "name_kana": "ハナミガワトショカン",
+                "postcode": "262-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.224206,
+                    35.601445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区中田町1200-1",
+                "category": "赤ちゃんの駅",
+                "name": "中田スポーツセンター",
+                "name_kana": "ナカダスポーツセンター",
+                "postcode": "265-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11627,
+                    35.673307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区三角町750",
+                "category": "赤ちゃんの駅",
+                "name": "こてはし温水プール",
+                "name_kana": "コテハシオンスイプール",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096968,
+                    35.639258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台5-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "稲毛図書館",
+                "name_kana": "イナゲトショカン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.152057,
+                    35.612151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区加曽利町892-6",
+                "category": "赤ちゃんの駅",
+                "name": "加曽利公民館",
+                "name_kana": "カソリコウミンカン",
+                "postcode": "264-0017"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.145563,
+                    35.657532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区六方町55−29",
+                "category": "赤ちゃんの駅",
+                "name": "山王市民センター",
+                "name_kana": "サンノウシミンセンター",
+                "postcode": "263-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.203232,
+                    35.549869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区誉田町1丁目789−49",
+                "category": "赤ちゃんの駅",
+                "name": "誉田公民館/誉田市民センター",
+                "name_kana": "ホンダコウミンカン/ホンダシミンセンター",
+                "postcode": "266-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.03917,
+                    35.668189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張本郷2-19-33",
+                "category": "赤ちゃんの駅",
+                "name": "幕張本郷公民館/幕張本郷市民センター",
+                "name_kana": "マクハリホンゴウコウミンカン/マクハリホンゴウシミンセンター",
+                "postcode": "262-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096837,
+                    35.688672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花見川3-31-102",
+                "category": "赤ちゃんの駅",
+                "name": "花見川市民センター",
+                "name_kana": "ハナミガワシミンセンター",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.175703,
+                    35.559952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野3-15-2",
+                "category": "赤ちゃんの駅",
+                "name": "鎌取コミュニティセンター",
+                "name_kana": "カマトリコミュニティセンター",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.186533,
+                    35.621898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区千城台西2-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "千城台コミュニティセンター/千城台市民センター",
+                "name_kana": "チシロダイコミュニティセンター/チシロダイシミンセンター",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.220615,
+                    35.594083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区高根町963−4",
+                "category": "赤ちゃんの駅",
+                "name": "泉市民センター",
+                "name_kana": "イズミシミンセンター",
+                "postcode": "265-0061"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.046798,
+                    35.639519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区打瀬2-13",
+                "category": "赤ちゃんの駅",
+                "name": "打瀬公民館/美浜図書館打瀬分館",
+                "name_kana": "ウタセコウミンカン/ミハマトショカンウタセブンカン",
+                "postcode": "261-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.163851,
+                    35.543662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区富岡町290-1",
+                "category": "赤ちゃんの駅",
+                "name": "椎名公民館",
+                "name_kana": "シイナコウミンカン",
+                "postcode": "266-0022"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.16389,
+                    35.556047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野中央2-7-6",
+                "category": "赤ちゃんの駅",
+                "name": "おゆみ野公民館",
+                "name_kana": "オユミノコウミンカン",
+                "postcode": "266-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.096965,
+                    35.68149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花島町308",
+                "category": "赤ちゃんの駅",
+                "name": "花島コミュニティセンター",
+                "name_kana": "ハナシマコミュニティセンター",
+                "postcode": "262-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106237,
+                    35.636214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区穴川4-12-3",
+                "category": "赤ちゃんの駅",
+                "name": "穴川コミュニティセンター",
+                "name_kana": "アナガワコミュニティセンター",
+                "postcode": "263-8733"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.230429,
+                    35.58379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区野呂町622-10",
+                "category": "赤ちゃんの駅",
+                "name": "白井公民館/若葉図書館泉分館",
+                "name_kana": "シライコウミンカン/ワカバトショカンイズミブンカン",
+                "postcode": "265-0053"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047597,
+                    35.656515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張町3-7730-4",
+                "category": "赤ちゃんの駅",
+                "name": "幕張コミュニティセンター",
+                "name_kana": "マクハリコミュニティセンター",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125626,
+                    35.663587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区長沼町461-8",
+                "category": "赤ちゃんの駅",
+                "name": "長沼コミュニティセンター",
+                "name_kana": "ナガヌマコミュニティセンター",
+                "postcode": "263-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.079313,
+                    35.666976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区畑町1336-2",
+                "category": "赤ちゃんの駅",
+                "name": "畑コミュニティセンター",
+                "name_kana": "ハタコミュニティセンター",
+                "postcode": "262-0018"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071043,
+                    35.626992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高洲3-12-1",
+                "category": "赤ちゃんの駅",
+                "name": "高洲コミュニティセンター/美浜図書館",
+                "name_kana": "タカスコミュニティセンター/ミハマトショカン",
+                "postcode": "261-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093986,
+                    35.626439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区黒砂2-4-18",
+                "category": "赤ちゃんの駅",
+                "name": "黒砂公民館",
+                "name_kana": "クロスナコウミンカン",
+                "postcode": "263-0042"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071248,
+                    35.611044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区新港224-1",
+                "category": "赤ちゃんの駅",
+                "name": "アクアリンクちば（千葉アイススケート場）",
+                "name_kana": "アクアリンクチバ（チバアイススケートジョウ）",
+                "postcode": "261-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138671,
+                    35.608191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区都町3-11-3",
+                "category": "赤ちゃんの駅",
+                "name": "みやこ図書館",
+                "name_kana": "ミヤコトショカン",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097024,
+                    35.688849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区花見川3-31-101",
+                "category": "赤ちゃんの駅",
+                "name": "花見川図書館花見川団地分館",
+                "name_kana": "ハナミガワトショカンハナミガワダンチブンカン",
+                "postcode": "262-0046"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.181098,
+                    35.596258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区大宮台7-8-2",
+                "category": "赤ちゃんの駅",
+                "name": "大宮台保育所",
+                "name_kana": "オオミヤダイホイクショ",
+                "postcode": "264-0015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0599,
+                    35.643659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区真砂5-44-1",
+                "category": "赤ちゃんの駅",
+                "name": "真砂第三保育所",
+                "name_kana": "マサゴダイサンホイクショ",
+                "postcode": "261-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.265203,
+                    35.521279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "あすみが丘7-2-4",
+                "category": "赤ちゃんの駅",
+                "name": "土気あすみが丘プラザ",
+                "name_kana": "トケアスミガオカプラザ",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109705,
+                    35.624686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "轟町1-12-3",
+                "category": "赤ちゃんの駅",
+                "name": "轟公民館",
+                "name_kana": "トドロキコウミンカン",
+                "postcode": "263-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.186962,
+                    35.62215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千城台西2-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "若葉図書館",
+                "name_kana": "ワカバトショカン",
+                "postcode": "264-0004"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.061303,
+                    35.665136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "武石町1-560",
+                "category": "赤ちゃんの駅",
+                "name": "おやこカフェ幕張",
+                "name_kana": "オヤコカフェマクハリ",
+                "postcode": "262-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094769,
+                    35.681228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "天戸町1334-4",
+                "category": "赤ちゃんの駅",
+                "name": "花見川ひかり整形外科",
+                "name_kana": "ハナミガワヒカリセイケイゲカ",
+                "postcode": "262-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073125,
+                    35.62838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "高洲3-13-1",
+                "category": "赤ちゃんの駅",
+                "name": "イオンマリンピア店",
+                "name_kana": "イオンマリンピアテン",
+                "postcode": "261-8513"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.041598,
+                    35.67049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張本郷2-8-23",
+                "building_name": "アミティ望月101号室",
+                "category": "赤ちゃんの駅",
+                "name": "幕張本郷・子育てリラックス館",
+                "name_kana": "マクハリホンゴウ・コソダテリラックスカン",
+                "postcode": "262-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121242,
+                    35.608518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央3-3-9",
+                "building_name": "MF9ビル2階",
+                "category": "赤ちゃんの駅",
+                "name": "ちばぎんざ図書館",
+                "name_kana": "チバギンザトショカン",
+                "postcode": "260-0013"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095026,
+                    35.636697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "小仲台1-4-20",
+                "category": "赤ちゃんの駅",
+                "name": "イオン稲毛店",
+                "name_kana": "イオンイナゲテン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.045377,
+                    35.651777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "ひび野1-3",
+                "category": "赤ちゃんの駅",
+                "name": "イオン幕張店",
+                "name_kana": "イオンマクハリテン",
+                "postcode": "261-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12849,
+                    35.657164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "長沼原町731-17",
+                "category": "赤ちゃんの駅",
+                "name": "フレスポ稲毛",
+                "name_kana": "フレスポイナゲ",
+                "postcode": "263-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.177597,
+                    35.561498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "おゆみ野3-16-1",
+                "category": "赤ちゃんの駅",
+                "name": "イオン鎌取店",
+                "name_kana": "イオンカマトリテン",
+                "postcode": "266-0031"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13878,
+                    35.59791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区青葉町977-1",
+                "category": "赤ちゃんの駅",
+                "name": "青葉の森公園つくしんぼの家",
+                "name_kana": "アオバノモリコウエンツクシンボノイエ",
+                "postcode": "260-0852"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.065,
+                    35.61797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜7-2-4",
+                "category": "赤ちゃんの駅",
+                "name": "三陽メディアフラワーミュージアム",
+                "name_kana": "サンヨウメディアフラワーミュージアム",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1182,
+                    35.61007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区富士見2-8-14",
+                "building_name": "エキニア千葉2階",
+                "category": "赤ちゃんの駅",
+                "name": "SMBCコンシューマーファイナンス株式会社千葉お客様サービスプラザ",
+                "name_kana": "エスエムビーシーコンシューマーファイナンスカブシキガイシャチバオキャクサマサービスプラザ",
+                "postcode": "260-0015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1064163,
+                    35.60566836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区千葉港5-1",
+                "building_name": "NHK千葉放送局",
+                "category": "赤ちゃんの駅",
+                "name": "NHK千葉放送局　ハートプラザ",
+                "name_kana": "エヌエイチケイチバホウソウキョク　ハートプラザ",
+                "postcode": "260-8610"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0803024,
+                    35.6353516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区稲毛海岸3-1-30",
+                "building_name": "フラワーヒル2階",
+                "category": "赤ちゃんの駅",
+                "name": "たかし保育園稲毛海岸",
+                "name_kana": "タカシホイクエンイナゲカイガン",
+                "postcode": "261-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1393431,
+                    35.56910188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区蘇我5-44-2",
+                "category": "赤ちゃんの駅",
+                "name": "ローゼンそが保育園",
+                "name_kana": "ローゼンソガホイクエン",
+                "postcode": "260-0822"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0878179,
+                    35.61493601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区新港70-1",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　ネッツタウン新港",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　ネッツタウンシンミナト",
+                "postcode": "261-0002"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1106596,
+                    35.61098485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区登戸2-2-7",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　登戸店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　ノブトテン",
+                "postcode": "260-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0875819,
+                    35.64669522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台8-17-10",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　小仲台店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　コナカダイテン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0881398,
+                    35.65967606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区朝日ヶ丘1-35-7",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　畑町店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　ハタマチテン",
+                "postcode": "262-0019"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1188135,
+                    35.65023486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区園生町370-5",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　穴川店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　アナガワテン",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1419556,
+                    35.60997304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区都町3-22-2",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　都町中央店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　ミヤコチョウチュウオウテン",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1452279,
+                    35.61341837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区都町1104-1",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　都町店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　ミヤコチョウテン",
+                "postcode": "260-0001"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1279759,
+                    35.59232541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区末広3-24-3",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　末広店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　スエヒロテン",
+                "postcode": "260-0843"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.124532,
+                    35.58636638
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区稲荷町3-1-1",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　稲荷町店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　イナリチョウテン",
+                "postcode": "260-0833"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1486397,
+                    35.5455661
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区古市場町556-1",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　古市場店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　フルイチバチョウテン",
+                "postcode": "266-0026"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.2638566,
+                    35.52976405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区あすみが丘3-52-5",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　土気あすみが丘店",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　トケアスミガオカテン",
+                "postcode": "267-0066"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.149734,
+                    35.62602962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区貝塚町1390-1",
+                "category": "赤ちゃんの駅",
+                "name": "ネッツトヨタ千葉（株）　ユーコム貝塚",
+                "name_kana": "ネッツトヨタチバカブシキガイシャ　ユーコムカイヅカ",
+                "postcode": "264-0023"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1306689,
+                    35.55632891
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区浜野町663-1",
+                "category": "赤ちゃんの駅",
+                "name": "学校法人畠山学園附属はまの保育園",
+                "name_kana": "ガッコウホウジンハタケヤマガクエンフゾクハマノホイクエン",
+                "postcode": "260-0824"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1699632,
+                    35.6454441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区若松町401",
+                "category": "赤ちゃんの駅",
+                "name": "若松台幼稚園",
+                "name_kana": "ワカマツダイヨウチエン",
+                "postcode": "264-0021"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.165901,
+                    35.54964924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野南3-25-1",
+                "category": "赤ちゃんの駅",
+                "name": "おゆみ野すきっぷ保育園",
+                "name_kana": "オユミノスキップホイクエン",
+                "postcode": "266-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1519147,
+                    35.58609372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区松ヶ丘町611",
+                "category": "赤ちゃんの駅",
+                "name": "学校法人塩田学園ひまわり幼稚園",
+                "name_kana": "ガッコウホウジンシオダガクエンヒマワリヨウチエン",
+                "postcode": "260-0807"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0963581,
+                    35.64161869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台5-3-1",
+                "category": "赤ちゃんの駅",
+                "name": "小中台地域福祉交流館",
+                "name_kana": "コナカダイチイキフクシコウリュウカン",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1538593,
+                    35.63662686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "若葉区都賀5-1-11",
+                "category": "赤ちゃんの駅",
+                "name": "都賀保育園",
+                "name_kana": "ツガホイクエン",
+                "postcode": "264-0025"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1365644,
+                    35.58243998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区宮崎2-6-1",
+                "category": "赤ちゃんの駅",
+                "name": "ＫＩＮＧＳ　ＳＥＤＯＮＡ",
+                "name_kana": "キングス　セドナ",
+                "postcode": "260-0806"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1139426,
+                    35.61124871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区新町1000",
+                "category": "赤ちゃんの駅",
+                "name": "そごう千葉店",
+                "name_kana": "ソゴウチバテン",
+                "postcode": "260-0028"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0721109,
+                    35.6173825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区高浜2-1-16",
+                "category": "赤ちゃんの駅",
+                "name": "こころの健康センター",
+                "name_kana": "ココロノケンコセンター",
+                "postcode": "261-0003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1172927,
+                    35.61320468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区富士見1-3-2",
+                "category": "赤ちゃんの駅",
+                "name": "京葉銀行文化プラザ",
+                "name_kana": "ケイヨウギンコウブンカプラザ",
+                "postcode": "260-0015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1118206,
+                    35.61789315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区弁天1-25-1",
+                "category": "赤ちゃんの駅",
+                "name": "千葉市消費生活センター",
+                "name_kana": "チバシショウヒセイカツセンター",
+                "postcode": "260-0045"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0878236,
+                    35.68407633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区天戸町1472-2",
+                "category": "赤ちゃんの駅",
+                "name": "ほっとすぺーす・すぎな",
+                "name_kana": "ホットスペース・スギナ",
+                "postcode": "262-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1179736,
+                    35.65648488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区長沼町330番地50",
+                "category": "赤ちゃんの駅",
+                "name": "ワンズモール",
+                "name_kana": "ワンズモール",
+                "postcode": "263-0005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1729951,
+                    35.54424618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "緑区おゆみ野南5-37-1",
+                "category": "赤ちゃんの駅",
+                "name": "イオンタウンおゆみ野",
+                "name_kana": "イオンタウンオユミノ",
+                "postcode": "266-0033"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0317822,
+                    35.65252596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "美浜区豊砂1−1",
+                "category": "赤ちゃんの駅",
+                "name": "イオンモール幕張新都心",
+                "name_kana": "イオンモールマクハリシントシン",
+                "postcode": "261-8535"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0510726,
+                    35.6565143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "花見川区幕張町4-417-25",
+                "category": "赤ちゃんの駅",
+                "name": "イトーヨーカドー幕張店",
+                "name_kana": "イトーヨーカドーマクハリテン",
+                "postcode": "262-0032"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1221994,
+                    35.58770393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "中央区川崎町52番地7",
+                "category": "赤ちゃんの駅",
+                "name": "イトーヨーカドー蘇我店",
+                "name_kana": "イトーヨーカドーソガテン",
+                "postcode": "260-0835"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1033167,
+                    35.64123767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区園生町1107-7",
+                "category": "赤ちゃんの駅",
+                "name": "生活クラブいなげビレッジ虹と風",
+                "name_kana": "セイカツクラブイナゲビレッジニジトカゼ",
+                "postcode": "263-0051"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0890929,
+                    35.64463805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "稲毛区小仲台7-9-1木谷ビル2F",
+                "category": "赤ちゃんの駅",
+                "name": "i-naリフォーム　モデルルーム",
+                "name_kana": "イーナリフォームモデルルーム",
+                "postcode": "263-0043"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,165 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097845,
+                    35.600432
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央港1",
+                "category": "観光施設",
+                "name": "千葉市 千葉ポートタワー",
+                "name_kana": "チバポートタワー"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.276238,
+                    35.517748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区小食土町955",
+                "category": "観光施設",
+                "name": "千葉市 昭和の森フォレストビレッジ",
+                "name_kana": "ショウワノモリフォレストビレッジ",
+                "postcode": "267-0062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.892396,
+                    36.750142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "利根郡みなかみ町（群馬県利根郡みなかみ町相俣2325）",
+                "category": "観光施設",
+                "name": "千葉市 高原千葉村",
+                "name_kana": "コウゲンチバムラ",
+                "postcode": "379-1404"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.118205,
+                    35.678257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区三角町656−3",
+                "category": "観光施設",
+                "name": "千葉市 ふるさと農園",
+                "name_kana": "フルサトノウエン",
+                "postcode": "262-0011"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.243123,
+                    35.606592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区富田町711番地1",
+                "category": "観光施設",
+                "name": "千葉市 富田都市農業交流センター",
+                "name_kana": "トミタトシノウギョウコウリュウセンター",
+                "postcode": "265-0041"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.206215,
+                    35.638568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区下田町971番地",
+                "category": "観光施設",
+                "name": "千葉市 下田農業ふれあい館（下田都市農業交流センター）",
+                "name_kana": "シモダノウギョウフレアイカン（シモダトシノウギョウコウリュウセンター）",
+                "postcode": "265-0076"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.221869,
+                    35.607056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区中田町2479番地35",
+                "category": "観光施設",
+                "name": "千葉市 中田都市農業交流センター",
+                "name_kana": "ナカタトシノウギョウコウリュウセンター",
+                "postcode": "265-0043"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.030966,
+                    35.645928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区美浜1",
+                "category": "観光施設",
+                "name": "QVCマリンフィールド",
+                "name_kana": "キューブイシーマリンフィールド",
+                "postcode": "261-8587"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1228739,
+                    35.5774839
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川崎町1-20",
+                "category": "観光施設",
+                "name": "フクダ電子アリーナ",
+                "name_kana": "フクダデンシアリーナ",
+                "postcode": "260-0835"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

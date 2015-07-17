@@ -1,0 +1,2445 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.132709,
+                    35.589763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉寺駅第２自転車駐車場",
+                "name_kana": "チバデラエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.042127,
+                    35.671685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷2丁目2番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張本郷駅第１自転車駐車場",
+                "name_kana": "マクハリホンゴウエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.043586,
+                    35.673617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷6丁目27",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張本郷駅第２自転車駐車場",
+                "name_kana": "マクハリホンゴウエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.043893,
+                    35.674987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷6丁目23",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張本郷駅第３自転車駐車場",
+                "name_kana": "マクハリホンゴウエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.042198,
+                    35.672104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張本郷駅第４自転車駐車場",
+                "name_kana": "マクハリホンゴウエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.055862,
+                    35.6601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町4丁目604",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第１自転車駐車場",
+                "name_kana": "マクハリエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058987,
+                    35.660435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町6丁目99",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第２自転車駐車場",
+                "name_kana": "マクハリエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.060139,
+                    35.657852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町6丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第３自転車駐車場",
+                "name_kana": "マクハリエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.057075,
+                    35.659699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町5丁目481-6",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第４自転車駐車場",
+                "name_kana": "マクハリエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074646,
+                    35.650912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区南花園1丁目43番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第１自転車駐車場",
+                "name_kana": "シンケミガワエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073549,
+                    35.649977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町3丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第２自転車駐車場",
+                "name_kana": "シンケミガワエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.072322,
+                    35.65176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区南花園2丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第３自転車駐車場",
+                "name_kana": "シンケミガワエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071252,
+                    35.652362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花園2丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第４自転車駐車場",
+                "name_kana": "シンケミガワエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075087,
+                    35.651777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花園1丁目5番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第５自転車駐車場",
+                "name_kana": "シンケミガワエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.07562,
+                    35.653903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花園5丁目3番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第６自転車駐車場",
+                "name_kana": "シンケミガワエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073765,
+                    35.650493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区南花園2丁目3番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第７自転車駐車場",
+                "name_kana": "シンケミガワエキダイ７ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.07383,
+                    35.652712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区花園1丁目13番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第８自転車駐車場",
+                "name_kana": "シンケミガワエキダイ８ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.091745,
+                    35.638231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛東4丁目13",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛駅第１自転車駐車場",
+                "name_kana": "イナゲエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.09369,
+                    35.635601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛東3丁目20",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛駅第２自転車駐車場",
+                "name_kana": "イナゲエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.094178,
+                    35.634942
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛東3-1162-5",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛駅第３自転車駐車場",
+                "name_kana": "イナゲエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102151,
+                    35.623927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区春日2丁目26番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 西千葉駅第１自転車駐車場",
+                "name_kana": "ニシチバエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.104553,
+                    35.6212327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区春日1丁目20番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 西千葉駅第２自転車駐車場",
+                "name_kana": "ニシチバエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.103688,
+                    35.622454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区松波2丁目6番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 西千葉駅第３自転車駐車場",
+                "name_kana": "ニシチバエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113383,
+                    35.614002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅北口第１自転車駐車場",
+                "name_kana": "チバエキキタグチダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.111701,
+                    35.614544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天1丁目3番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅北口第２自転車駐車場",
+                "name_kana": "チバエキキタグチダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116084,
+                    35.614278
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天2丁目4番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅北口第３自転車駐車場",
+                "name_kana": "チバエキキタグチダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114221,
+                    35.613858
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天1丁目16番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅北口第４自転車駐車場",
+                "name_kana": "チバエキキタグチダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.115483,
+                    35.611529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区富士見2丁目25番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅東口第１自転車駐車場",
+                "name_kana": "チバエキヒガシグチダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11648,
+                    35.613212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区富士見1丁目2番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅東口地下自転車駐車場",
+                "name_kana": "チバエキヒガシグチチカジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.111014,
+                    35.613162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新千葉2丁目2番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅西口第１自転車駐車場",
+                "name_kana": "チバエキニシグチダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121181,
+                    35.600759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区港町26",
+                "category": "自転車駐輪場",
+                "name": "千葉市 本千葉駅第１自転車駐車場",
+                "name_kana": "ホンチバエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120326,
+                    35.602329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区長洲1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 本千葉駅第２自転車駐車場",
+                "name_kana": "ホンチバエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131574,
+                    35.581639
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南町2丁目9",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第１自転車駐車場",
+                "name_kana": "ソガエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1298,
+                    35.581177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井2丁目4",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第２自転車駐車場",
+                "name_kana": "ソガエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13286,
+                    35.57924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南町3丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第３自転車駐車場",
+                "name_kana": "ソガエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131908,
+                    35.580274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南町2丁目16",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第４自転車駐車場",
+                "name_kana": "ソガエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131479,
+                    35.58227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南町2丁目8",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第５自転車駐車場",
+                "name_kana": "ソガエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131329,
+                    35.581884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南町2丁目9",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第６自転車駐車場",
+                "name_kana": "ソガエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131488,
+                    35.551575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区村田町702",
+                "category": "自転車駐輪場",
+                "name": "千葉市 浜野駅第１自転車駐車場",
+                "name_kana": "ハマノエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13183,
+                    35.550514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区村田町1230",
+                "category": "自転車駐輪場",
+                "name": "千葉市 浜野駅第２自転車駐車場",
+                "name_kana": "ハマノエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.132658,
+                    35.552974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区浜野町854−9",
+                "category": "自転車駐輪場",
+                "name": "千葉市 浜野駅第３自転車駐車場",
+                "name_kana": "ハマノエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.1786,
+                    35.563178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区鎌取町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第１１自転車駐車場",
+                "name_kana": "カマトリエキダイ１１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.178992,
+                    35.563243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区鎌取町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第１自転車駐車場",
+                "name_kana": "カマトリエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.178187,
+                    35.5629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目70",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第２自転車駐車場",
+                "name_kana": "カマトリエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.178668,
+                    35.562443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目70",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第３自転車駐車場",
+                "name_kana": "カマトリエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.179296,
+                    35.561881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目3",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第４自転車駐車場",
+                "name_kana": "カマトリエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.214011,
+                    35.546748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町2丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 誉田駅第１自転車駐車場",
+                "name_kana": "ホンダエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.212769,
+                    35.546752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町2丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 誉田駅第４自転車駐車場",
+                "name_kana": "ホンダエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.214591,
+                    35.547428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町2丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 誉田駅第５自転車駐車場",
+                "name_kana": "ホンダエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.270189,
+                    35.530968
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1727",
+                "category": "自転車駐輪場",
+                "name": "千葉市 土気駅第１自転車駐車場",
+                "name_kana": "トケエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.268801,
+                    35.530302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区あすみが丘1丁目23",
+                "category": "自転車駐輪場",
+                "name": "千葉市 土気駅第２自転車駐車場",
+                "name_kana": "トケエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.268765,
+                    35.530528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区あすみが丘1丁目23",
+                "category": "自転車駐輪場",
+                "name": "千葉市 土気駅第３自転車駐車場",
+                "name_kana": "トケエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12134,
+                    35.616743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区椿森1丁目8",
+                "category": "自転車駐輪場",
+                "name": "千葉市 東千葉駅第３自転車駐車場",
+                "name_kana": "ヒガシチバエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121936,
+                    35.616926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区椿森1丁目9",
+                "category": "自転車駐輪場",
+                "name": "千葉市 東千葉駅第２自転車駐車場",
+                "name_kana": "ヒガシチバエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.149611,
+                    35.634883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀3丁目14−6",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀駅第１自転車駐車場",
+                "name_kana": "ツガエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.14695,
+                    35.635284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区西都賀1丁目11",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀駅第２自転車駐車場",
+                "name_kana": "ツガエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147736,
+                    35.634911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀3丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀駅第４自転車駐車場",
+                "name_kana": "ツガエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102018,
+                    35.608475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉港8",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉みなと駅第１自転車駐車場",
+                "name_kana": "チバミナトエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101807,
+                    35.6078793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央港1丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉みなと駅第２自転車駐車場",
+                "name_kana": "チバミナトエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.072637,
+                    35.629708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第１自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058442,
+                    35.637253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺5丁目10",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川浜駅第１自転車駐車場",
+                "name_kana": "ケミガワハマエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059253,
+                    35.636614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区磯辺5丁目9",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川浜駅第２自転車駐車場",
+                "name_kana": "ケミガワハマエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.042854,
+                    35.648699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区ひび野1丁目109-3",
+                "category": "自転車駐輪場",
+                "name": "千葉市 海浜幕張駅第１自転車駐車場",
+                "name_kana": "カイヒンマクハリエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.042555,
+                    35.647939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区ひび野2-125-1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 海浜幕張駅第２自転車駐車場",
+                "name_kana": "カイヒンマクハリエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.043166,
+                    35.647555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区ひび野2-109",
+                "category": "自転車駐輪場",
+                "name": "千葉市 海浜幕張駅第３自転車駐車場",
+                "name_kana": "カイヒンマクハリエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.067505,
+                    35.65219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町1丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川駅第１自転車駐車場",
+                "name_kana": "ケミガワエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.066213,
+                    35.652488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町1-10-7",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川駅第２自転車駐車場",
+                "name_kana": "ケミガワエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.08501,
+                    35.637978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛3丁目6番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 京成稲毛駅第１自転車駐車場",
+                "name_kana": "ケイセイイナゲエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.085903,
+                    35.637582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区稲毛東2丁目4番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 京成稲毛駅第２自転車駐車場",
+                "name_kana": "ケイセイイナゲエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097579,
+                    35.624984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区緑町1丁目8番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 みどり台駅第１自転車駐車場",
+                "name_kana": "ミドリダイエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102976,
+                    35.617534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区登戸4丁目9",
+                "category": "自転車駐輪場",
+                "name": "千葉市 西登戸駅第１自転車駐車場",
+                "name_kana": "ニシノブトエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131043,
+                    35.590695
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区末広4丁目16",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉寺駅第５自転車駐車場",
+                "name_kana": "チバデラエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.148821,
+                    35.584741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区宮崎町776",
+                "category": "自転車駐輪場",
+                "name": "千葉市 大森台駅第１自転車駐車場",
+                "name_kana": "オオモリダイエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.158055,
+                    35.56117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央1丁目3番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 学園前駅第１自転車駐車場",
+                "name_kana": "ガクエンマエエキジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167164,
+                    35.549746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野南3丁目27",
+                "category": "自転車駐輪場",
+                "name": "千葉市 おゆみ野駅第１自転車駐車場",
+                "name_kana": "オユミノエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.118379,
+                    35.613804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区富士見1丁目4",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅東口第５自転車駐車場",
+                "name_kana": "チバエキヒガシグチダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.117891,
+                    35.6198405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区椿森1丁目27番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉公園駅第１自転車駐車場",
+                "name_kana": "チバコウエンエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.115367,
+                    35.625649
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区作草部2丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 作草部駅第１自転車駐車場",
+                "name_kana": "サクサベエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.112827,
+                    35.6318109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台1丁目4",
+                "category": "自転車駐輪場",
+                "name": "千葉市 天台駅第１自転車駐車場",
+                "name_kana": "テンダイエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.112274,
+                    35.639763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台5丁目24番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 穴川駅第１自転車駐車場",
+                "name_kana": "アナガワエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.115634,
+                    35.643077
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台6丁目14",
+                "category": "自転車駐輪場",
+                "name": "千葉市 スポーツセンター駅第１自転車駐車場",
+                "name_kana": "スポーツセンターエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125339,
+                    35.642609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区萩台町213",
+                "category": "自転車駐輪場",
+                "name": "千葉市 動物公園駅第１自転車駐車場",
+                "name_kana": "ドウブツコウエンエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135556,
+                    35.638771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区みつわ台3丁目11",
+                "category": "自転車駐輪場",
+                "name": "千葉市 みつわ台駅第１自転車駐車場",
+                "name_kana": "ミツワダイエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.160565,
+                    35.6312767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区桜木7丁目19番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 桜木駅第１自転車駐車場",
+                "name_kana": "サクラギエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.171929,
+                    35.627503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区小倉台3丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 小倉台駅第１自転車駐車場",
+                "name_kana": "オグラダイエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.17199,
+                    35.628029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区小倉台4丁目20",
+                "category": "自転車駐輪場",
+                "name": "千葉市 小倉台駅第２自転車駐車場",
+                "name_kana": "オグラダイエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.171695,
+                    35.627969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区小倉台4丁目19",
+                "category": "自転車駐輪場",
+                "name": "千葉市 小倉台駅第３自転車駐車場",
+                "name_kana": "オグラダイエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182259,
+                    35.62749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台北1丁目3",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千城台北駅第１自転車駐車場",
+                "name_kana": "チシロダイキタエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18797,
+                    35.623065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区千城台北3丁目21",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千城台駅第１自転車駐車場",
+                "name_kana": "チシロダイエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.129111,
+                    35.592406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区末広3丁目23",
+                "category": "自転車駐輪場",
+                "name": "千葉市 末広保管場",
+                "name_kana": "スエヒロホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131499,
+                    35.578977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井3丁目7",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第９自転車駐車場",
+                "name_kana": "ソガエキダイ９ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.145209,
+                    35.632691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀2丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀保管場",
+                "name_kana": "ツガホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.069221,
+                    35.618958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高浜2丁目3",
+                "category": "自転車駐輪場",
+                "name": "千葉市 高浜保管場",
+                "name_kana": "タカハマホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.032879,
+                    35.657947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区浜田2丁目126",
+                "category": "自転車駐輪場",
+                "name": "千葉市 浜田保管場",
+                "name_kana": "ハマダホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.110499,
+                    35.613097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新千葉2丁目11",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅西口保管場",
+                "name_kana": "チバエキニシグチホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.228178,
+                    35.543954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町2丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 誉田保管場",
+                "name_kana": "ホンダホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116063,
+                    35.64371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区天台6丁目14番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 スポーツセンター駅第２自転車駐車場",
+                "name_kana": "スポーツセンターエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130824,
+                    35.582641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井2丁目19-2",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第７自転車駐車場",
+                "name_kana": "ソガエキダイ７ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130744,
+                    35.579325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井2丁目6番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第８自転車駐車場",
+                "name_kana": "ソガエキダイ８ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.17935,
+                    35.561374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目5番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第５自転車駐車場",
+                "name_kana": "カマトリエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.179047,
+                    35.562199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目3番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第７自転車駐車場",
+                "name_kana": "カマトリエキダイ７ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176883,
+                    35.56169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目16番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第８自転車駐車場",
+                "name_kana": "カマトリエキダイ８ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176398,
+                    35.560788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目15番他",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第９自転車駐車場",
+                "name_kana": "カマトリエキダイ９ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.177523,
+                    35.559959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野3丁目10番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 鎌取駅第１０自転車駐車場",
+                "name_kana": "カマトリエキダイ１０ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.07194,
+                    35.650726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区南花園2丁目4番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第９自転車駐車場",
+                "name_kana": "シンケミガワエキダイ９ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11524,
+                    35.613354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区弁天2丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅北口第５自転車駐車場",
+                "name_kana": "チバエキキタグチダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11743,
+                    35.613691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区富士見1丁目3番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅東口第４自転車駐車場",
+                "name_kana": "チバエキヒガシグチダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.132924,
+                    35.590102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉寺駅第３自転車駐車場",
+                "name_kana": "チバデラエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.210577,
+                    35.547625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区誉田町2丁目24番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 誉田駅第６自転車駐車場",
+                "name_kana": "ホンダエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.269283,
+                    35.53091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 土気駅第４自転車駐車場",
+                "name_kana": "トケエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.266247,
+                    35.531794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1731",
+                "category": "自転車駐輪場",
+                "name": "千葉市 土気駅第５自転車駐車場",
+                "name_kana": "トケエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101466,
+                    35.607886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央港1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉みなと駅第３自転車駐車場",
+                "name_kana": "チバミナトエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102232,
+                    35.607385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区中央港1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉みなと駅第４自転車駐車場",
+                "name_kana": "チバミナトエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.057112,
+                    35.660576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町4丁目614",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第９自転車駐車場",
+                "name_kana": "マクハリエキダイ９ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.057366,
+                    35.659088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町5丁目125",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第６自転車駐車場",
+                "name_kana": "マクハリエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.055371,
+                    35.6612698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町4丁目800",
+                "category": "自転車駐輪場",
+                "name": "千葉市 京成幕張駅第１自転車駐車場",
+                "name_kana": "ケイセイマクハリエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.041448,
+                    35.672166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張本郷駅第５自転車駐車場",
+                "name_kana": "マクハリホンゴウエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.041466,
+                    35.672984
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張本郷1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張本郷駅第６自転車駐車場",
+                "name_kana": "マクハリホンゴウエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116145,
+                    35.612479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区富士見1丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅東口第３自転車駐車場",
+                "name_kana": "チバエキヒガシグチダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093784,
+                    35.635776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市稲毛区小仲台2丁目1番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛駅第４自転車駐車場",
+                "name_kana": "イナゲエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12164,
+                    35.616438
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区要町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 東千葉駅第１自転車駐車場",
+                "name_kana": "ヒガシチバエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.066247,
+                    35.6525568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区検見川町1丁目105-2",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川駅第３自転車駐車場",
+                "name_kana": "ケミガワエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114131,
+                    35.611932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新千葉1丁目2番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅西口第2自転車駐車場",
+                "name_kana": "チバエキニシグチダイ2ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.040997,
+                    35.64892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区ひび野2丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 海浜幕張駅第４自転車駐車場",
+                "name_kana": "カイヒンマクハリエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113167,
+                    35.610541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新町1000",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉駅西口第3自転車駐車場",
+                "name_kana": "チバエキニシグチダイ3ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.133603,
+                    35.579534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区南町2丁目23",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第10自転車駐車場",
+                "name_kana": "ソガエキダイ10ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059719,
+                    35.637596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂4丁目2",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川浜駅第３自転車駐車場",
+                "name_kana": "ケミガワハマエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059414,
+                    35.637828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂4丁目2",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川浜駅第４自転車駐車場",
+                "name_kana": "ケミガワハマエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.060221,
+                    35.638179
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区真砂4丁目2",
+                "category": "自転車駐輪場",
+                "name": "千葉市 検見川浜駅第５自転車駐車場",
+                "name_kana": "ケミガワハマエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.056446,
+                    35.659108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町5丁目485",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第７自転車駐車場",
+                "name_kana": "マクハリエキダイ７ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.055466,
+                    35.657629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町5丁目188",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第８自転車駐車場",
+                "name_kana": "マクハリエキダイ８ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071529,
+                    35.6518877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区南花園2丁目7−5",
+                "category": "自転車駐輪場",
+                "name": "千葉市 新検見川駅第１０自転車駐車場",
+                "name_kana": "シンケミガワエキダイ１０ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.158922,
+                    35.560925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野中央1丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 学園前駅第２自転車駐車場",
+                "name_kana": "ガクエンマエエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.166145,
+                    35.550292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区おゆみ野南2丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 おゆみ野駅第２自転車駐車場",
+                "name_kana": "オユミノエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.117318,
+                    35.607191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区新宿2丁目",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉中央駅第１自転車駐車場",
+                "name_kana": "チバチュウオウエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.132205,
+                    35.590455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉寺駅第１自転車駐車場",
+                "name_kana": "チバデラエキダイ１ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.133636,
+                    35.590135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉寺町",
+                "category": "自転車駐輪場",
+                "name": "千葉市 千葉寺駅第４自転車駐車場",
+                "name_kana": "チバデラエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074379,
+                    35.629624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目23",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第２自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073759,
+                    35.629658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第４自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ４ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.072494,
+                    35.629469
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第５自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073134,
+                    35.629073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目24",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第６自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075413,
+                    35.629265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目22",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第７自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ７ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.072725,
+                    35.628788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市美浜区高洲3丁目9番他",
+                "category": "自転車駐輪場",
+                "name": "千葉市 稲毛海岸駅第８自転車駐車場",
+                "name_kana": "イナゲカイガンエキダイ８ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.056108,
+                    35.657247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町5丁目193番1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張自転車保管場",
+                "name_kana": "マクハリジテンシャホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.14891,
+                    35.5840135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区大森町455−2",
+                "category": "自転車駐輪場",
+                "name": "千葉市 大森台駅第２自転車駐車場",
+                "name_kana": "オオモリダイエキダイ２ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.130702,
+                    35.5809672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区今井2丁目4",
+                "category": "自転車駐輪場",
+                "name": "千葉市 蘇我駅第11自転車駐車場",
+                "name_kana": "ソガエキダイ11ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.104607,
+                    35.621176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区春日1丁目20番",
+                "category": "自転車駐輪場",
+                "name": "千葉市 西千葉保管場",
+                "name_kana": "ニシチバホカンバ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.058484,
+                    35.6594796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市花見川区幕張町6丁目112-3",
+                "category": "自転車駐輪場",
+                "name": "千葉市 幕張駅第５自転車駐車場",
+                "name_kana": "マクハリエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.268894,
+                    35.531082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市緑区土気町1625-3",
+                "category": "自転車駐輪場",
+                "name": "千葉市 土気駅第６自転車駐車場",
+                "name_kana": "トケエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.148385,
+                    35.635306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀3丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀駅第３自転車駐車場",
+                "name_kana": "ツガエキダイ３ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147296,
+                    35.634547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀3丁目1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀駅第５自転車駐車場",
+                "name_kana": "ツガエキダイ５ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147693,
+                    35.634584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市若葉区都賀3丁目1−1",
+                "category": "自転車駐輪場",
+                "name": "千葉市 都賀駅第６自転車駐車場",
+                "name_kana": "ツガエキダイ６ジテンシャチュウシャジョウ"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,2141 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120277,
+                    35.615425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区要町1−1",
+                "category": "広報無線",
+                "name": "市民会館",
+                "name_kana": "シミンカイカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.215084,
+                    35.640134
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区下田町573",
+                "category": "広報無線",
+                "name": "旧更科小学校下田分校",
+                "name_kana": "キュウサラシナショウガッコウシモダブンコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.237718,
+                    35.600151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区富田町83",
+                "category": "広報無線",
+                "name": "更科小学校富田分校",
+                "name_kana": "サラシナショウガッコウトミタブンコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.145034,
+                    35.628665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区貝塚町1093",
+                "category": "広報無線",
+                "name": "北貝塚小学校",
+                "name_kana": "キタカイヅカショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.272533,
+                    35.54135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区土気町1400",
+                "category": "広報無線",
+                "name": "土気中学校",
+                "name_kana": "トケチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135199,
+                    35.583298
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区宮崎2−4",
+                "category": "広報無線",
+                "name": "菰池公園",
+                "name_kana": "コモイケコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.200829,
+                    35.636263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区御成台3−1182−2",
+                "category": "広報無線",
+                "name": "御成台公園",
+                "name_kana": "オナリダイコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.170582,
+                    35.629289
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区小倉台4−7",
+                "category": "広報無線",
+                "name": "小倉台公園",
+                "name_kana": "オグラダイコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.142408,
+                    35.56968
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区今井町1478",
+                "category": "広報無線",
+                "name": "千葉工業高等学校",
+                "name_kana": "チバコウギョウコウトウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095063,
+                    35.6837916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川8−1",
+                "category": "広報無線",
+                "name": "花島小学校",
+                "name_kana": "ハナシマショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.097899,
+                    35.647279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区小仲台9−30−1",
+                "category": "広報無線",
+                "name": "園生小学校",
+                "name_kana": "ソンノウショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.142685,
+                    35.665341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区山王町121",
+                "category": "広報無線",
+                "name": "山王小学校",
+                "name_kana": "サンノウショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116007,
+                    35.638225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区天台5−11−1",
+                "category": "広報無線",
+                "name": "千草台小学校",
+                "name_kana": "チグサダイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109734,
+                    35.658964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区宮野木町2100",
+                "category": "広報無線",
+                "name": "宮野木小学校",
+                "name_kana": "ミヤノギショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.10734,
+                    35.648613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区園生町588",
+                "category": "広報無線",
+                "name": "柏台小学校",
+                "name_kana": "カシワダイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0821,
+                    35.643927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区稲毛町5−120",
+                "category": "広報無線",
+                "name": "稲毛中学校",
+                "name_kana": "イナゲチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.102413,
+                    35.63838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区小仲台4−2",
+                "category": "広報無線",
+                "name": "小園公園",
+                "name_kana": "オゾノコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.114303,
+                    35.607909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区新宿2−15−1",
+                "category": "広報無線",
+                "name": "新宿小学校",
+                "name_kana": "シンジュクショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131263,
+                    35.578211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区今井3−15−32",
+                "category": "広報無線",
+                "name": "蘇我小学校",
+                "name_kana": "ソガショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144835,
+                    35.612507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区都町1129",
+                "category": "広報無線",
+                "name": "都小学校",
+                "name_kana": "ミヤコショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.144476,
+                    35.580623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区大森町268",
+                "category": "広報無線",
+                "name": "大森小学校",
+                "name_kana": "オオモリショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.133712,
+                    35.60987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区鶴沢町21−1",
+                "category": "広報無線",
+                "name": "鶴沢小学校",
+                "name_kana": "ツルサワショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146688,
+                    35.596806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区星久喜町1060",
+                "category": "広報無線",
+                "name": "星久喜小学校",
+                "name_kana": "ホシクキショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.112619,
+                    35.616491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区弁天1−21−2",
+                "category": "広報無線",
+                "name": "弁天小学校",
+                "name_kana": "ベンテンショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.131289,
+                    35.558963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区塩田町316−1",
+                "category": "広報無線",
+                "name": "生浜西小学校",
+                "name_kana": "オイハマニシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.149072,
+                    35.573157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区大巌寺町375",
+                "category": "広報無線",
+                "name": "大巌寺小学校",
+                "name_kana": "ダイガンジショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.147935,
+                    35.559876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区生実町1928",
+                "category": "広報無線",
+                "name": "生浜東小学校",
+                "name_kana": "オイハマヒガシヨウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.167873,
+                    35.584003
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川戸町443",
+                "category": "広報無線",
+                "name": "川戸中学校",
+                "name_kana": "カワドチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.152051,
+                    35.600845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区星久喜町823",
+                "category": "広報無線",
+                "name": "星久喜中学校",
+                "name_kana": "ホシクキチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.129942,
+                    35.668396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区長沼原町304−1",
+                "category": "広報無線",
+                "name": "長沼原勤労市民プラザ",
+                "name_kana": "ナガヌマハラキンロウシミンプラザ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.18158,
+                    35.612023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区坂月町298",
+                "category": "広報無線",
+                "name": "坂月小学校",
+                "name_kana": "サカツキショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.230974,
+                    35.580907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区野呂町215",
+                "category": "広報無線",
+                "name": "白井小学校",
+                "name_kana": "シライショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.182235,
+                    35.596181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区大宮台7−8−1",
+                "category": "広報無線",
+                "name": "大宮小学校",
+                "name_kana": "オオミヤショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.171906,
+                    35.649861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区若松台2−25−1",
+                "category": "広報無線",
+                "name": "若松台小学校",
+                "name_kana": "ワカマツダイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.226416,
+                    35.617657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区更科町2112",
+                "category": "広報無線",
+                "name": "更科中学校",
+                "name_kana": "サラシナチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13119,
+                    35.635307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区みつわ台2−41−1",
+                "category": "広報無線",
+                "name": "みつわ台中学校",
+                "name_kana": "ミツワダイチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.142673,
+                    35.653051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区若松町774",
+                "category": "広報無線",
+                "name": "山王中学校",
+                "name_kana": "サンノウチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.168745,
+                    35.600051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区大宮町2655",
+                "category": "広報無線",
+                "name": "千城小学校",
+                "name_kana": "チシロショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.098057,
+                    35.612579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幸町1−10−2",
+                "category": "広報無線",
+                "name": "幸町第二中学校",
+                "name_kana": "サイワイチョウダイニチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.135896,
+                    35.547318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区村田町141−11",
+                "category": "広報無線",
+                "name": "のぎわ公園",
+                "name_kana": "ノギワコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.127025,
+                    35.622186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区東千葉2−9",
+                "category": "広報無線",
+                "name": "山部第３公園",
+                "name_kana": "ヤマベダイサンコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.109856,
+                    35.621959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区松波2−22",
+                "category": "広報無線",
+                "name": "松波公園",
+                "name_kana": "マツナミコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.120795,
+                    35.610297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区中央1",
+                "category": "広報無線",
+                "name": "中央公園",
+                "name_kana": "チュウオウコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.127199,
+                    35.591892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区末広4−4",
+                "category": "広報無線",
+                "name": "末広４丁目公園",
+                "name_kana": "スエヒロヨンチョウメコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.119012,
+                    35.602464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区長洲1−34",
+                "category": "広報無線",
+                "name": "君待公園",
+                "name_kana": "キミマチコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125798,
+                    35.605422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区亥鼻1−6",
+                "category": "広報無線",
+                "name": "亥鼻公園",
+                "name_kana": "イノハナコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106397,
+                    35.607307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区千葉港1−1",
+                "category": "広報無線",
+                "name": "千葉市役所",
+                "name_kana": "チバシヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.163408,
+                    35.541806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区茂呂町582",
+                "category": "広報無線",
+                "name": "椎名小学校",
+                "name_kana": "シイナショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.204475,
+                    35.549554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区誉田町1−27",
+                "category": "広報無線",
+                "name": "誉田小学校",
+                "name_kana": "ホンダショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.180059,
+                    35.568846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区辺田町141",
+                "category": "広報無線",
+                "name": "平山小学校",
+                "name_kana": "ヒラヤマショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.218211,
+                    35.549533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区誉田町2−21−84",
+                "category": "広報無線",
+                "name": "誉田東小学校",
+                "name_kana": "ホンダヒガシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.237031,
+                    35.532181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区越智町705−359",
+                "category": "広報無線",
+                "name": "越智小学校",
+                "name_kana": "オチショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.17359,
+                    35.554272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野中央4−3",
+                "category": "広報無線",
+                "name": "泉谷小学校",
+                "name_kana": "イズミヤショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.265018,
+                    35.523073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区あすみが丘4−16",
+                "category": "広報無線",
+                "name": "土気南小学校",
+                "name_kana": "トケミナミショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.26234,
+                    35.514374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区あすみが丘6−38",
+                "category": "広報無線",
+                "name": "大椎小学校",
+                "name_kana": "オオジショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.166093,
+                    35.56129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野1−53",
+                "category": "広報無線",
+                "name": "有吉小学校",
+                "name_kana": "アリヨシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.146295,
+                    35.549187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区古市場町474−277",
+                "category": "広報無線",
+                "name": "古市場公園",
+                "name_kana": "フルイチバコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.25602,
+                    35.510184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区板倉町26−1",
+                "category": "広報無線",
+                "name": "法行寺",
+                "name_kana": "ホウギョウジ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.171392,
+                    35.547939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野南2−28",
+                "category": "広報無線",
+                "name": "おゆみ野いけのいり公園",
+                "name_kana": "オユミノイケノイリコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.279062,
+                    35.552759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区上大和田町250−1",
+                "category": "広報無線",
+                "name": "上大和田町内会館",
+                "name_kana": "カミオオワダチョウナイカイカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.24762,
+                    35.554086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区平川町1138",
+                "category": "広報無線",
+                "name": "平川公園",
+                "name_kana": "ヒラカワコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.27433,
+                    35.559358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区下大和田町178−2",
+                "category": "広報無線",
+                "name": "下大和田公園",
+                "name_kana": "シモオオワダコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.216558,
+                    35.559901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区高田町945−4",
+                "category": "広報無線",
+                "name": "高田町内会館",
+                "name_kana": "タカダチョウナイカイカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.258193,
+                    35.531213
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区大椎町1251",
+                "category": "広報無線",
+                "name": "大椎第１公園",
+                "name_kana": "オオジダイイチコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.176138,
+                    35.560444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区おゆみ野3−15−3",
+                "category": "広報無線",
+                "name": "緑区役所",
+                "name_kana": "ミドリクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.030904,
+                    35.660736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幕張西6−52",
+                "category": "広報無線",
+                "name": "幕張海浜緑地",
+                "name_kana": "マクハリカイヒンリョクチ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.061794,
+                    35.620817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜7−2",
+                "category": "広報無線",
+                "name": "稲毛海浜公園",
+                "name_kana": "イナゲカイヒンコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.055523,
+                    35.650871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区若葉2−8",
+                "category": "広報無線",
+                "name": "若葉学校給食センター",
+                "name_kana": "ワカバガッコウキュウショクセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.092587,
+                    35.614404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区新港62",
+                "category": "広報無線",
+                "name": "新港学校給食センター",
+                "name_kana": "シンミナトガッコウキュウショクセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.047805,
+                    35.643947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区打瀬1−1",
+                "category": "広報無線",
+                "name": "美浜消防署打瀬出張所",
+                "name_kana": "ミハマショウボウショウタセシュッチョウジョ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074806,
+                    35.635291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲4−1−16",
+                "category": "広報無線",
+                "name": "千葉市救助救急センター",
+                "name_kana": "チバシキュウジョキュウキュウセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.261598,
+                    35.61422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区小間子町1−64",
+                "category": "広報無線",
+                "name": "千葉経済学園小間子運動場",
+                "name_kana": "チバケイザイガクエンオマゴウンドウジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.266745,
+                    35.577567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区中野町798",
+                "category": "広報無線",
+                "name": "本郷自治会館",
+                "name_kana": "ホンゴウジチカイカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.184059,
+                    35.589484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区大宮台2−15",
+                "category": "広報無線",
+                "name": "峠野公園",
+                "name_kana": "トウゲノコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.14535,
+                    35.640384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区都賀の台4−4",
+                "category": "広報無線",
+                "name": "都賀の台４丁目公園",
+                "name_kana": "ツガノダイヨンチョウメコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.198942,
+                    35.617111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台東4−22",
+                "category": "広報無線",
+                "name": "千城台東第９公園",
+                "name_kana": "チシロダイヒガシダイキュウコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.194641,
+                    35.598018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区多部田町754−50",
+                "category": "広報無線",
+                "name": "多部田第２公園",
+                "name_kana": "タベタダイニコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.154795,
+                    35.62149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区桜木1−38−1",
+                "category": "広報無線",
+                "name": "桜木市営霊園",
+                "name_kana": "サクラギシエイレイエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.220615,
+                    35.594083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区高根町963−4",
+                "category": "広報無線",
+                "name": "泉市民センター",
+                "name_kana": "イズミシミンセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.138396,
+                    35.645212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区みつわ台5−40",
+                "category": "広報無線",
+                "name": "千葉県水道局東寺山高架水道",
+                "name_kana": "チバケンスイドウキョクヒガシテラヤマコウカスイドウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.165067,
+                    35.61753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区加曽利町1590",
+                "category": "広報無線",
+                "name": "若葉消防署桜木出張所",
+                "name_kana": "ワカバショウボウショサクラギシュッチョウジョ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.187198,
+                    35.622284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区千城台西2−1−1",
+                "category": "広報無線",
+                "name": "千城台公民館",
+                "name_kana": "チシロダイコウミンカン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.155612,
+                    35.633931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市若葉区桜木北2−1−1",
+                "category": "広報無線",
+                "name": "若葉区役所",
+                "name_kana": "ワカバクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.082239,
+                    35.662901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区畑町675",
+                "category": "広報無線",
+                "name": "花見川消防署畑出張所",
+                "name_kana": "ハナミガワショウボウショハタシュッチョウジョ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.093252,
+                    35.637644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区小仲台2−5−2",
+                "category": "広報無線",
+                "name": "大越ビル",
+                "name_kana": "オオコシビル"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.099317,
+                    35.624528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区緑町1−17",
+                "category": "広報無線",
+                "name": "緑町公園",
+                "name_kana": "ミドリチョウコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113924,
+                    35.630367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区天台1−1",
+                "category": "広報無線",
+                "name": "作草部公園",
+                "name_kana": "サクサベコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.107174,
+                    35.636198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区穴川4−12−1",
+                "category": "広報無線",
+                "name": "稲毛区役所",
+                "name_kana": "イナゲクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.119951,
+                    35.688042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区こてはし台4−21",
+                "category": "広報無線",
+                "name": "こてはし台公園",
+                "name_kana": "コテハシダイコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.113232,
+                    35.698882
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区横戸台38",
+                "category": "広報無線",
+                "name": "横戸北公園",
+                "name_kana": "ヨコドキタダイニコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.081446,
+                    35.651005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花園町2449−42",
+                "category": "広報無線",
+                "name": "東花園第二公園",
+                "name_kana": "ヒガシハナゾノダイニコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.067171,
+                    35.650415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区検見川町2−43−2",
+                "category": "広報無線",
+                "name": "中道公園",
+                "name_kana": "ナカミチコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.071786,
+                    35.65391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花園2",
+                "category": "広報無線",
+                "name": "花園公園",
+                "name_kana": "ハナゾノコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.06869,
+                    35.663012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区瑞穂1−1",
+                "category": "広報無線",
+                "name": "花見川区役所",
+                "name_kana": "ハナミガワクヤクショ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.137854,
+                    35.692294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区み春野1-11",
+                "category": "広報無線",
+                "name": "宇那谷み春野公園",
+                "name_kana": "ウナヤミハルノコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.095609,
+                    35.663686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区さつきが丘1−18",
+                "category": "広報無線",
+                "name": "犢橋貝塚公園",
+                "name_kana": "コテハシカイヅカコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.04878,
+                    35.674666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張本郷7−23",
+                "category": "広報無線",
+                "name": "幕張台公園",
+                "name_kana": "マクハリダイコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.042077,
+                    35.668831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張本郷2−33",
+                "category": "広報無線",
+                "name": "一本松公園",
+                "name_kana": "イッポンマツコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.059058,
+                    35.662916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張町4−45",
+                "category": "広報無線",
+                "name": "幕張中学校",
+                "name_kana": "マクハリチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.116991,
+                    35.677681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区三角町656−2",
+                "category": "広報無線",
+                "name": "犢橋中学校",
+                "name_kana": "コテハシチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.085505,
+                    35.659229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区朝日ヶ丘2−6−1",
+                "category": "広報無線",
+                "name": "朝日ヶ丘小学校",
+                "name_kana": "アサヒガオカショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106365,
+                    35.708785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区柏井4−48−1",
+                "category": "広報無線",
+                "name": "柏井小学校",
+                "name_kana": "カシワイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.084471,
+                    35.687734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区作新台7−2−1",
+                "category": "広報無線",
+                "name": "作新小学校",
+                "name_kana": "サクシンショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.091189,
+                    35.667513
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区さつきが丘2−14",
+                "category": "広報無線",
+                "name": "さつきが丘西小学校",
+                "name_kana": "サツキガオカニシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.101329,
+                    35.688791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区花見川6−1",
+                "category": "広報無線",
+                "name": "花見川第二小学校",
+                "name_kana": "ハナミガワダイニショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.073743,
+                    35.684214
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区長作町1273",
+                "category": "広報無線",
+                "name": "長作小学校",
+                "name_kana": "ナガサクショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.053739,
+                    35.661884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区幕張町4−781",
+                "category": "広報無線",
+                "name": "幕張小学校",
+                "name_kana": "マクハリショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075894,
+                    35.61987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜1−4−1",
+                "category": "広報無線",
+                "name": "高浜第一小学校",
+                "name_kana": "タカハマダイイチショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.051495,
+                    35.635925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区磯辺7−17−1",
+                "category": "広報無線",
+                "name": "旧磯辺第二小学校（跡施設）",
+                "name_kana": "キュウイソベダイニショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.081805,
+                    35.632781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区稲毛海岸2−3−3",
+                "category": "広報無線",
+                "name": "稲浜中学校",
+                "name_kana": "イナハマチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.075871,
+                    35.627677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高洲3−2",
+                "category": "広報無線",
+                "name": "高洲公園",
+                "name_kana": "タカスコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.056224,
+                    35.630053
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区磯辺4−27",
+                "category": "広報無線",
+                "name": "中磯辺公園",
+                "name_kana": "ナカイソベコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.07178,
+                    35.613481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区高浜2−2−1",
+                "category": "広報無線",
+                "name": "地方卸売市場",
+                "name_kana": "チホウオロシウリシジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.127742,
+                    35.585592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区稲荷町3−15",
+                "category": "広報無線",
+                "name": "稲荷町第２公園",
+                "name_kana": "イナリチョウダイニコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.125796,
+                    35.615512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区祐光1−25−3",
+                "category": "広報無線",
+                "name": "院内小学校",
+                "name_kana": "インナイショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.15538,
+                    35.586418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区松ヶ丘町580",
+                "category": "広報無線",
+                "name": "松ヶ丘小学校",
+                "name_kana": "マツガオカショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.061599,
+                    35.644017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区真砂5−18−1",
+                "category": "広報無線",
+                "name": "高等特別支援学校",
+                "name_kana": "コウトウトクベツシエンガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.108004,
+                    35.673653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区犢橋町774",
+                "category": "広報無線",
+                "name": "犢橋小学校",
+                "name_kana": "コテハシショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.088974,
+                    35.688947
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市花見川区作新台1−2−1",
+                "category": "広報無線",
+                "name": "花見川消防署作新台出張所",
+                "name_kana": "ハナミガワショウボウショサクシンダイシュッチョウジョ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.127504,
+                    35.652815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市稲毛区園生町1397",
+                "category": "広報無線",
+                "name": "草野中学校",
+                "name_kana": "クサノチュウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.272976,
+                    35.531929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区土気町1634−2",
+                "category": "広報無線",
+                "name": "土気小学校",
+                "name_kana": "トケショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.240972,
+                    35.539097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市緑区越智町1701−6",
+                "category": "広報無線",
+                "name": "緑消防署越智出張所",
+                "name_kana": "ミドリショウボウショオチシュッチョウジョ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.036482,
+                    35.664533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区幕張西2−10",
+                "category": "広報無線",
+                "name": "幕張西第１公園",
+                "name_kana": "マクハリニシダイイチコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.121744,
+                    35.5973912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区寒川町1−205",
+                "category": "広報無線",
+                "name": "寒川小学校",
+                "name_kana": "サムガワショウガッコウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.12115,
+                    35.5914632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区寒川町3−107−9",
+                "category": "広報無線",
+                "name": "寒川雨水ポンプ場",
+                "name_kana": "サムガワウスイポンプジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.098949,
+                    35.5993709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区千葉港1",
+                "category": "広報無線",
+                "name": "千葉ポートパーク",
+                "name_kana": "チバポートパーク"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.11499,
+                    35.5988946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区出洲港353−53",
+                "category": "広報無線",
+                "name": "出洲港公園",
+                "name_kana": "デズミナトコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.13439,
+                    35.5707623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区蘇我町2",
+                "category": "広報無線",
+                "name": "そが野ふれあい公園",
+                "name_kana": "ソガノフレアイコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.123343,
+                    35.5741591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市中央区川崎町1−20",
+                "category": "広報無線",
+                "name": "蘇我スポーツ公園",
+                "name_kana": "ソガスポーツコウエン"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.084085,
+                    35.6163181
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区新港69",
+                "category": "広報無線",
+                "name": "中央浄化センター",
+                "name_kana": "チュウオウジョウカセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.074231,
+                    35.6102999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区新港226−1",
+                "category": "広報無線",
+                "name": "新港清掃工場",
+                "name_kana": "シンミナトセイソウコウジョウ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.054017,
+                    35.6242706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区磯辺2−8−2",
+                "category": "広報無線",
+                "name": "稲毛海浜公園サイクリングセンター",
+                "name_kana": "イナゲカイヒンコウエンサイクリングセンター"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.036017,
+                    35.6404452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉県千葉市美浜区ひび野2−116",
+                "category": "広報無線",
+                "name": "幕張海浜公園",
+                "name_kana": "マクハリカイヒンコウエン"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,48 @@
+{
+    "copyright": "この GeoJSON ファイルは、以下の著作物を改変して利用しています。\n公共施設位置情報、千葉市、クリエイティブ・コモンズ・表示2.1 (http://creativecommons.org/licenses/by/2.1/jp/)",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    140.106405,
+                    35.621119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区松波2丁目14-8",
+                "category": "コミュニティセンター",
+                "name": "千葉市 中央コミュニティセンター松波分室",
+                "name_kana": "チバシチュウオウコミュニティセンターマツナミブンシツ",
+                "postcode": "260-0044"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.108224,
+                    35.6067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "千葉市中央区千葉港2-1",
+                "building_name": "千葉中央コミュニティセンター４，５，６Ｆ",
+                "category": "コミュニティセンター",
+                "name": "千葉市 中央コミュニティセンター",
+                "name_kana": "チバシチュウオウコミュニティセンター",
+                "postcode": "260-0026"
+            },
+            "type": "Feature"
+        }
+    ],
+    "timestamp": "",
+    "type": "FeatureCollection"
+}
